@@ -1,0 +1,22 @@
+.dashboard-list-with-user {
+    max-height: 500px !important;
+}
+.library-app .drop-area, .select-from-library-container .drop-area {
+    min-height: 493px !important;
+}
+.img-circle {
+    border-radius: 50% !important;
+}
+.navbar {
+    background: lightgreen !important;
+}
+.navbar .navbar-logo .logo {
+    background: url(../../img/gdpr-logo.png) no-repeat !important;
+    width: 225px !important;
+    height: 50px !important;
+}
+.logo-single {
+    background: url(../../img/gdpr-logo.png) no-repeat !important;
+    width: 225px !important;
+    height: 50px !important;
+}

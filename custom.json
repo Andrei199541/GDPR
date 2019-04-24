@@ -1,0 +1,59 @@
+[
+	{
+        "type": "radiogroup",
+        "name": "Does your web site has a SSL certificate?",
+        "title": "Custom question text here... ?",
+        "correctAnswer": "item1",
+        "isRequired": true,
+        "choices": [
+            {
+                "value": "item1",
+                "text": "YES"
+            },
+            {
+                "value": "item2",
+                "text": "NO"
+            },
+            {
+                "value": "item3",
+                "text": "IT DOES NOT APPLY TO ME"
+            }
+        ]
+    },
+    {
+        "type": "checkbox",
+        "name": "Allow Notes for Does your web site has a SSL certificate?",
+        "visible": false,
+        "title": "Allow Notes - check if applies to question.",
+        "defaultValue": [
+            "item1"
+        ],
+        "choices": [
+            {
+                "value": "item1",
+                "text": "Allow Notes"
+            }
+        ]
+    },
+    {
+        "type": "html",
+        "name": "Comments and download for YES - please add your suggestions here",
+        "visibleIf": "{Does your web site has a SSL certificate?} = \"item1\"",
+        "html": "Comments and download for YES - please add your suggestions here. Also downloads. "
+    },
+    {
+        "type": "html",
+        "name": "Comments and download for NO - please add your suggestions here. ",
+        "visible": false,
+        "visibleIf": "{Does your web site has a SSL certificate?} = \"item2\"",
+        "valueName": "Comments and download for NO - please add your suggestions here",
+        "html": "Comments and download for NO - please add your suggestions here. Also downloads. "
+    },
+    {
+        "type": "comment",
+        "name": "Notes for - Does your web site has a SSL certificate?",
+        "visible": false,
+        "visibleIf": "{Allow Notes for Does your web site has a SSL certificate?} = [\"item1\"]",
+        "title": "Notes"
+    }
+]
