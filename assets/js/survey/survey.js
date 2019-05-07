@@ -1,3 +1,31 @@
+function doOnCurrentPageChanged(survey) {
+    document
+        .getElementById('surveyPrev')
+        .style
+        .display = !survey.isFirstPage
+            ? "inline"
+            : "none";
+    document
+        .getElementById('surveyNext')
+        .style
+        .display = !survey.isLastPage
+            ? "inline"
+            : "none";
+    document
+        .getElementById('surveyComplete')
+        .style
+        .display = survey.isLastPage
+            ? "inline"
+            : "none";
+    document
+        .getElementById('surveyProgress')
+        .innerText = "Page " + (
+    survey.currentPageNo + 1) + " of " + survey.visiblePageCount + ".";
+    if (document.getElementById('surveyPageNo')) 
+        document
+            .getElementById('surveyPageNo')
+            .value = survey.currentPageNo;
+}
 if (!window["%hammerhead%"]) {
     window.survey = new Survey.Model(json);
     survey.onComplete.add(function(result, e) {
@@ -6,8 +34,10 @@ if (!window["%hammerhead%"]) {
     });
 
     $("#surveyElement").Survey({
-        model: survey
+        model: survey, onCurrentPageChanged: doOnCurrentPageChanged
     });
+
+    doOnCurrentPageChanged(survey);
 } 
 
 var total = {
@@ -25,18 +55,9 @@ var answer = {
 var currentPage = {
     questionCount: 0
 }
-document.addEventListener('DOMContentLoaded', function() {
-    $('.sv_prev_btn').remove(); //remove previous button
- }, false);
 
 var storageName = "SurveyJS_LoadState";
 var timerId = 0;
-
-
-function loadState(survey) {
-	
-}
-
 
 survey
     .onCurrentPageChanged
@@ -46,16 +67,12 @@ survey
 survey
     .onComplete
     .add(function (survey, options) {
-        // clearInterval(timerId);
-        // saveState(survey);
     });
 
+if (parent.pageNumber) {
+    survey.currentPageNo = parent.pageNumber;
+}
 survey.data = result;
-
-//save the data every 10 seconds, it is a good idea to change it to 30-60 seconds or more.
-// timerId = window.setInterval(function () {
-    // saveState(survey);
-// }, 10000);
 
 $("#surveyElement").Survey({model: survey});
 

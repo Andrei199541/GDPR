@@ -86,6 +86,11 @@ class Questions extends CI_Controller {
 	}
 
 	public function survey() {
+		$pageName = $this->input->get("page");
+		$pageNumber = 0;
+		if ($pageName) {
+			$pageNumber = $this->question_management_model->getPageNumberByPageName($pageName);
+		}
 		$this->load->model("user_model");
 		$info = $this->user_model->getUserInfo();
 		$user['info'] = $info;
@@ -107,7 +112,7 @@ class Questions extends CI_Controller {
 		$this->load->view('template/dore/header', $data);
 		$this->load->view('template/dore/topbar', $user);
 		$this->load->view('template/dore/sidebar');
-		$this->load->view('user/survey');
+		$this->load->view('user/survey', array("pageNumber" => $pageNumber));
 		$this->load->view('template/dore/footer');
 		$this->load->view('template/dore/link', $data);
 	}

@@ -196,7 +196,7 @@ if (isset($apply) && count($apply)) {
                                 <p class="mb-1 text-muted text-small w-15 w-xs-100"><?php echo $pageName; ?></p>
                                 <p class="mb-1 text-muted text-small w-15 w-xs-100"><?php echo substr(strip_tags($todo["val"]), 0, 99) ;?></p>
                                 <div class="w-15 w-xs-100">
-                                    <a href="<?php echo site_url("questions/survey");?>"><span class="badge badge-pill badge-secondary">Solve</span></a>
+                                    <a href="<?php echo site_url("questions/survey?page=" . $pageName);?>"><span class="badge badge-pill badge-secondary">Solve</span></a>
                                 </div>
                             </div>
                         </div>
@@ -228,7 +228,7 @@ if (isset($apply) && count($apply)) {
                             </a>
                             <p class="mb-1 text-muted text-small w-15 w-xs-100"><?php echo $pagename; ?></p>
                             <div class="w-15 w-xs-100">
-                                <a href="<?php echo site_url("questions/survey");?>"><span class="badge badge-pill badge-secondary">Check</span></a>
+                                <a href="<?php echo site_url("questions/survey?page=" . $pagename);?>"><span class="badge badge-pill badge-secondary">Check</span></a>
                             </div>
                         </div>
                     </div>

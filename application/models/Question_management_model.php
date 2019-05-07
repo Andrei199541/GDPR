@@ -364,6 +364,20 @@ class Question_management_model extends Base_model {
         }
         return $return;
     }
+
+    public function getPageNumberByPageName($pageName) {
+        $questions = $this->getJsonByRole();
+        if ($questions) {
+            if (isset($questions->pages)) {
+                foreach ($questions->pages as $pageno => $page) {
+                    if ($page->name == $pageName) {
+                        return $pageno;
+                    }
+                }
+            }
+        }
+        return 0;
+    }
     
     private function checkSettingTable() {
         if ( $this->ifNotExistsTable($this->_access_table) ) {
