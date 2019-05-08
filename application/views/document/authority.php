@@ -1,22 +1,38 @@
 <html>
     <head>
         <title>Authority Report</title>
+        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+        <meta charset="utf-8">
+        <style>
+        label {
+            font-weight: bold;
+            color: rgb(109, 112, 114);
+        }
+        span {
+            color: rgb(109, 112, 114);
+        }
+        </style>
     </head>
     <body>
-        <table style="width: 100%; margin-top: 40px;" cellpadding="0" cellspacing="0">
         <?php
-        foreach ($authoritys as $pagename => $list) {
-            foreach ($list as $li) {
-        ?>
-        <tr>
-            <td style="width: 40%;"><?php echo $li["title"]; ?></td>
-            <td style="width: 15%;"><?php echo $pagename; ?></td>
-            <td style="width: 44%;"><?php echo strip_tags($li["val"]);?></td>>
-        </tr>
-        <?php
+        header('Content-Type: text/html; charset=utf-8');
+        $text = '';
+        if ($authoritys && count($authoritys)) {
+            foreach ($authoritys as $pagename => $list) {
+                if (count($list)) {
+                    $text .= '<h4>' . $pagename . '</h4>';
+                }
+                foreach ($list as $li) {
+                    $val = str_replace("\u0103", "ă", $li["val"]);
+                    $text .= '<div>';
+                    $text .= '<label>' . $li["title"] . '</label><br>';
+                    $text .= '<span>' . $val . '</span>';
+                    $text .= '</div><br>';
+                }
             }
+            echo $text;
         }
         ?>
-        </table>
+        
     </body>
 </html>

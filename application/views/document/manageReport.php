@@ -56,26 +56,22 @@ if (isset($apply) && count($apply)) {
             }
             ?>
         </table>
-        <table style="width: 100%" cellpadding="0" cellspacing="0">                
-            <tr>
-                <td><h5>Todo List</h5></td>
-            </tr>
             <?php
+            $text = '';
             if (isset($todoList) && count($todoList)) {
                 foreach ($todoList as $pageName => $todos) {
+                    if (count($todos)) {
+                        $text .= '<h4>' . $pageName . '</h4>';
+                    }
                     foreach ($todos as $todo) {
-            ?>
-            <tr>
-                <td style="width: 40%; text-align: left;"><?php echo $todo["title"]; ?></td>
-                <td style="width: 15%; text-align: center;"><?php echo $pageName; ?></td>
-                <td style="width: 44%; text-align: right;"><?php echo substr(strip_tags($todo["val"]), 0, 99); ?></td>
-            </tr>
-                    
-            <?php
+                        $text .= '<div>';
+                        $text .= '<label>' . $todo["title"] . '</label><br>';
+                        $text .= '<span>' . $todo["val"] . '</span>';
+                        $text .= '</div><br>';
                     }
                 }
             }
+            echo $text;
             ?>
-        </table>
     </body>
 </html>
