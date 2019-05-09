@@ -100,7 +100,7 @@ class Document extends CI_Controller {
 		$html2pdf->writeHTML($body);
 		if (ob_get_contents()) ob_end_clean();
 
-        $html2pdf->output("Management Report.pdf");
+        $html2pdf->output("Management Report.pdf", "D");
 	}
 
 	public function authReport() {
