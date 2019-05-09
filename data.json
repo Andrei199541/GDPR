@@ -8,7 +8,7 @@
 					"name": "Does your web site has a SSL certificate?_1553180427",
 					"title": "V\u0103 afla\u021bi \u00eentr-una dintre situa\u021biile enumerate mai jos? -\treprezenta\u021bi o autoritate sau un organism public, cu excep\u0163ia instan\u0163elor care ac\u0163ioneaz\u0103 \u00een exerci\u0163iul func\u0163iei lor jurisdic\u0163ionale -\tsunte\u021bi o companie care desf\u0103\u0219oar\u0103 ca activit\u0103\u021bi principale opera\u021biuni de prelucrare, care, prin natura lor, domeniul de aplicare \u0219i\/sau scopurile lor, necesit\u0103 o monitorizare periodic\u0103 \u0219i sistematic\u0103 a persoanelor vizate pe scar\u0103 larg\u0103 -\tsunte\u021bi o companie care desf\u0103\u0219oar\u0103 activit\u0103\u021bi principale care constau \u00een prelucrarea pe scar\u0103 larg\u0103 a unor categorii speciale de date (originea rasial\u0103 sau etnic\u0103, opiniile politice, confesiunea religioas\u0103 sau convingerile filozofice sau apartenen\u0163a la sindicate \u015fi prelucrarea de date genetice, de date biometrice pentru identificarea unic\u0103 a unei persoane fizice, de date privind s\u0103n\u0103tatea sau de date privind via\u0163a sexual\u0103 sau orientarea sexual\u0103 ale unei persoane fizice) sau a unor date cu caracter personal privind condamn\u0103ri penale \u0219i infrac\u021biuni.",
 					"correctAnswer": "DPO_1553180427item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "DPO_1553180427item1",
@@ -65,7 +65,7 @@
 					"name": "Does your web site has a SSL certificate?_1553180474",
 					"title": "A\u021bi numit un responsabil cu protec\u021bia datelor (DPO)?",
 					"correctAnswer": "DPO_1553180474item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "DPO_1553180474item1",
@@ -122,7 +122,7 @@
 					"name": "Does your web site has a SSL certificate?_1553180491",
 					"title": "A\u021bi comunicat ANSPDCP datele de contact ale DPO?",
 					"correctAnswer": "DPO_1553180491item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "DPO_1553180491item1",
@@ -179,7 +179,7 @@
 					"name": "Does your web site has a SSL certificate?_1553180521",
 					"title": "Datele de contact ale DPO sunt disponibile persoanelor vizate?",
 					"correctAnswer": "DPO_1553180521item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "DPO_1553180521item1",
@@ -236,7 +236,7 @@
 					"name": "Does your web site has a SSL certificate?_1553180544",
 					"title": "Numirea DPO s-a realizat printr-o Decizie a echipei manageriale?",
 					"correctAnswer": "DPO_1553180544item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "DPO_1553180544item1",
@@ -293,7 +293,7 @@
 					"name": "Does your web site has a SSL certificate?_1553180578",
 					"title": "DPO beneficiaz\u0103 de garan\u021biile de independen\u021b\u0103 a\u0219a cum sunt prev\u0103zute acestea de art. 38 RGPD?",
 					"correctAnswer": "DPO_1553180578item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "DPO_1553180578item1",
@@ -350,7 +350,7 @@
 					"name": "Does your web site has a SSL certificate?_1553180604",
 					"title": "Are DPO cuno\u0219tin\u021bele de specialitate \u00een domeniul protec\u021biei datelor?",
 					"correctAnswer": "DPO_1553180604item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "DPO_1553180604item1",
@@ -407,7 +407,7 @@
 					"name": "Does your web site has a SSL certificate?_1554287901",
 					"title": "A\u021bi \u00eentocmit Fi\u0219a Postului DPO \u021bin\u00e2nd cont de prevederile art. 39 RGPD ,,Sarcinile responsabilului cu protec\u021bia datelor\u201d?",
 					"correctAnswer": "DPO_1554287901item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "DPO_1554287901item1",
@@ -464,7 +464,7 @@
 					"name": "Does your web site has a SSL certificate?_1554295199",
 					"title": "Ave\u021bi implementat\u0103 o procedur\u0103 prin care s\u0103 oferi\u021bi posibilitatea persoanei vizate dreptul de  rectificare a datelor cu caracter personal inexacte?",
 					"correctAnswer": "DPO_1554295199item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "DPO_1554295199item1",
@@ -521,7 +521,7 @@
 					"name": "Does your web site has a SSL certificate?_1554297008",
 					"title": "Custom question text here... ?",
 					"correctAnswer": "DPO_1554297008item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "DPO_1554297008item1",
@@ -578,7 +578,7 @@
 					"name": "Does your web site has a SSL certificate?_1554717151",
 					"title": "Custom question text here... ?",
 					"correctAnswer": "DPO_1554717151item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "DPO_1554717151item1",
@@ -641,7 +641,7 @@
 					"name": "Does your web site has a SSL certificate?_1553180726",
 					"title": "A\u021bi implementat o politic\u0103 de confiden\u021bialitate\/de prelucrare a datelor cu caracter personal?",
 					"correctAnswer": "Managerial_1553180726item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Managerial_1553180726item1",
@@ -698,7 +698,7 @@
 					"name": "Does your web site has a SSL certificate?_1553180744",
 					"title": "Aceast\u0103 politic\u0103 de confiden\u021bialitate\/de prelucrare a datelor cu caracter personal este disponibil\u0103 \u0219i accesibil\u0103 persoanelor vizate (angaja\u021bi\/clien\u021bi\/parteneri etc.)?",
 					"correctAnswer": "Managerial_1553180744item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Managerial_1553180744item1",
@@ -755,7 +755,7 @@
 					"name": "Does your web site has a SSL certificate?_1554292282",
 					"title": "Politica de confiden\u021bialitate\/de prelucrare a datelor cu caracter personal cuprinde scopul prelucr\u0103rii datelor cu caracter personal?",
 					"correctAnswer": "Managerial_1554292282item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Managerial_1554292282item1",
@@ -812,7 +812,7 @@
 					"name": "Does your web site has a SSL certificate?_1554292644",
 					"title": "Politica de confiden\u021bialitate\/de prelucrare a datelor cu caracter personal men\u021bioneaz\u0103 temeiul juridic de prelucrare a datelor cu caracter personal?",
 					"correctAnswer": "Managerial_1554292644item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Managerial_1554292644item1",
@@ -869,7 +869,7 @@
 					"name": "Does your web site has a SSL certificate?_1554292717",
 					"title": "Politica prevede datele de contact ale DPO\/adres\u0103 de contact pe problematici de prelucrare a datelor cu caracter personal?",
 					"correctAnswer": "Managerial_1554292717item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Managerial_1554292717item1",
@@ -926,7 +926,7 @@
 					"name": "Does your web site has a SSL certificate?_1554292787",
 					"title": "Politica se refer\u0103 la drepturile persoanei vizate (acces, rectificare, \u0219tergere, restric\u021bionarea prelucr\u0103rii, opozi\u021bie, portabilitate) \u0219i la modul de exercitare a acestora?",
 					"correctAnswer": "Managerial_1554292787item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Managerial_1554292787item1",
@@ -983,7 +983,7 @@
 					"name": "Does your web site has a SSL certificate?_1554292911",
 					"title": "\u00cen situa\u021bia \u00een care prelucrarea se face \u00een temeiul consim\u021b\u0103m\u00e2ntului persoanei vizate, exist\u0103 o informare cu privire la dreptul de retragere a consim\u021b\u0103m\u00e2ntului?",
 					"correctAnswer": "Managerial_1554292911item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Managerial_1554292911item1",
@@ -1040,7 +1040,7 @@
 					"name": "Does your web site has a SSL certificate?_1554292945",
 					"title": "Politica cuprinde informare cu privire la situa\u021biile \u00een care: furnizarea de date reprezint\u0103 o obliga\u021bie legal\u0103 sau contractual\u0103 sau o obliga\u021bie necesar\u0103 pentru \u00eencheierea unui contract, precum \u0219i dac\u0103 persoana vizat\u0103 este obligat\u0103 s\u0103 furnizeze aceste date \u0219i cu privire la eventualele consecin\u021be ale nerespect\u0103rii acestei obliga\u021bii?",
 					"correctAnswer": "Managerial_1554292945item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Managerial_1554292945item1",
@@ -1097,7 +1097,7 @@
 					"name": "Does your web site has a SSL certificate?_1554292957",
 					"title": "Politica face referire la situa\u021biile de divulgare a datelor \u0219i destinatarii\/categoriile de destinatari?",
 					"correctAnswer": "Managerial_1554292957item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Managerial_1554292957item1",
@@ -1154,7 +1154,7 @@
 					"name": "Does your web site has a SSL certificate?_1554292972",
 					"title": "Politica precizeaz\u0103 termenul de stocare a datelor\/ criteriile luate \u00een considerare pentru stabilirea termenului?",
 					"correctAnswer": "Managerial_1554292972item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Managerial_1554292972item1",
@@ -1211,7 +1211,7 @@
 					"name": "Does your web site has a SSL certificate?_1554294457",
 					"title": "Politica prevede informarea despre dreptul persoanei vizate de a se adresa Autorit\u0103\u021bii Na\u021bionale privind Supravegherea Protec\u021biei Datelor cu Caracter Personal sau\/\u0219i instan\u021belor de judecat\u0103?",
 					"correctAnswer": "Managerial_1554294457item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Managerial_1554294457item1",
@@ -1268,7 +1268,7 @@
 					"name": "Does your web site has a SSL certificate?_1554377765",
 					"title": "A\u021bi informat persoana vizat\u0103 privind dreptul de a retrage consim\u021b\u0103m\u00e2ntul \u00een orice moment?",
 					"correctAnswer": "Managerial_1554377765item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Managerial_1554377765item1",
@@ -1325,7 +1325,7 @@
 					"name": "Does your web site has a SSL certificate?_1554377788",
 					"title": "Ave\u021bi o procedur\u0103 de retragere a consim\u021b\u0103m\u00e2ntului persoanei vizate?",
 					"correctAnswer": "Managerial_1554377788item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Managerial_1554377788item1",
@@ -1382,7 +1382,7 @@
 					"name": "Does your web site has a SSL certificate?_1554377804",
 					"title": "A\u021bi informat persoanele vizate cu privire la prelucr\u0103rile realizate \u00een interesul legitim al operatorului?",
 					"correctAnswer": "Managerial_1554377804item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Managerial_1554377804item1",
@@ -1439,7 +1439,7 @@
 					"name": "Does your web site has a SSL certificate?_1554377820",
 					"title": "A\u021bi informat persoanele vizate despre dreptul de a se opune prelucr\u0103rii datelor cu caracter personal \u00een conformitate cu art. 21 RGPD?",
 					"correctAnswer": "Managerial_1554377820item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Managerial_1554377820item1",
@@ -1496,7 +1496,7 @@
 					"name": "Does your web site has a SSL certificate?_1554377838",
 					"title": "\u00cen momentul colect\u0103rii datelor cu caracter personal, furniza\u021bi persoanei vizate: cel pu\u021bin informa\u021biile referitoare la datele de contact ale companiei\/institu\u021biei, adresa de e-mail a responsabilului cu protec\u021bia datelor\/persoanei cu atribu\u021bii \u00een domeniul protec\u021biei datelor, scopurile \u00een care sunt prelucrate datele cu caracter personal, temeiul juridic al prelucr\u0103rii, perioada de stocare a datelor, destinatarii sau categoriile de destinatari ale datelor?",
 					"correctAnswer": "Managerial_1554377838item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Managerial_1554377838item1",
@@ -1553,7 +1553,7 @@
 					"name": "Does your web site has a SSL certificate?_1554377855",
 					"title": "\u00cen cazul prelucr\u0103rilor ulterioare, persoana vizat\u0103 este informat\u0103 cu privire la scopul secundar \u0219i orice alte informa\u021bii relevante?",
 					"correctAnswer": "Managerial_1554377855item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Managerial_1554377855item1",
@@ -1610,7 +1610,7 @@
 					"name": "Does your web site has a SSL certificate?_1554377910",
 					"title": "\u00cen cazul ob\u021binerii datelor cu caracter personal \u00een mod indirect din alte surse, realiza\u021bi o informare a persoanei vizate cu privire la aceasta? (nu se aplic\u0103 dac\u0103 persoana vizat\u0103 de\u021bine deja informa\u021biile, \u00een cazul \u00een care \u00eenregistrarea sau divulgarea datelor cu caracter personal este prev\u0103zut\u0103 \u00een mod expres de lege sau \u00een cazul \u00een care informarea persoanei vizate se dovede\u0219te imposibil\u0103 sau ar implica eforturi dispropor\u021bionate.",
 					"correctAnswer": "Managerial_1554377910item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Managerial_1554377910item1",
@@ -1667,7 +1667,7 @@
 					"name": "Does your web site has a SSL certificate?_1554377927",
 					"title": "De\u021bine\u021bi un jurnal al m\u0103surilor de conformare cu RGPD implementate p\u00e2n\u0103 \u00een prezent?",
 					"correctAnswer": "Managerial_1554377927item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Managerial_1554377927item1",
@@ -1724,7 +1724,7 @@
 					"name": "Does your web site has a SSL certificate?_1554377959",
 					"title": "Ave\u021bi o procedur\u0103 de identificare dac\u0103 un tip de prelucrare, \u00een special cel bazat pe utilizarea noilor tehnologii, este susceptibil s\u0103 genereze un risc ridicat pentru drepturile \u0219i libert\u0103\u021bile persoanelor fizice?",
 					"correctAnswer": "Managerial_1554377959item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Managerial_1554377959item1",
@@ -1781,7 +1781,7 @@
 					"name": "Does your web site has a SSL certificate?_1554377977",
 					"title": "\u00cen cazul \u00een care realiza\u021bi una din urm\u0103toarele activit\u0103\u021bi: a) evaluare sistematic\u0103 \u0219i cuprinz\u0103toare a aspectelor personale referitoare la persoane fizice, care se bazeaz\u0103 pe prelucrarea automat\u0103, inclusiv crearea de profiluri, \u0219i care st\u0103 la baza unor decizii care produc efecte juridice privind persoana fizic\u0103 sau care o afecteaz\u0103 \u00een mod similar \u00eentr-o m\u0103sur\u0103 semnificativ\u0103; b) prelucrare pe scar\u0103 larg\u0103 a unor categorii speciale de date, men\u021bionat\u0103 la articolul 9 alineatul (1), sau a unor date cu caracter personal privind condamn\u0103ri penale \u0219i infrac\u021biuni, men\u021bionat\u0103 la articolul 10; c) monitorizare sistematic\u0103 pe scar\u0103 larg\u0103 a unei zone accesibile publicului), a\u0163i realizat o evaluare a impactului opera\u021biunilor de prelucrare prev\u0103zute asupra protec\u021biei datelor cu caracter personal?",
 					"correctAnswer": "Managerial_1554377977item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Managerial_1554377977item1",
@@ -1838,7 +1838,7 @@
 					"name": "Does your web site has a SSL certificate?_1554377995",
 					"title": "\u00cen cazul \u00een care prelucrarea datelor cu caracter personal are mai multe scopuri, s-a respectat principiul granularit\u0103\u021bii (consim\u021b\u0103m\u00e2nt separat) pentru fiecare scop?",
 					"correctAnswer": "Managerial_1554377995item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Managerial_1554377995item1",
@@ -1895,7 +1895,7 @@
 					"name": "Does your web site has a SSL certificate?_1554378013",
 					"title": "Cererea privind consim\u021b\u0103m\u00e2ntul a fost prezentat\u0103 \u00eentr-o form\u0103 care o diferen\u021biaz\u0103 \u00een mod clar de alte aspecte, \u00eentr-o form\u0103 inteligibil\u0103 \u0219i u\u0219or accesibil\u0103, utiliz\u00e2nd un limbaj clar \u0219i simplu?",
 					"correctAnswer": "Managerial_1554378013item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Managerial_1554378013item1",
@@ -1952,7 +1952,7 @@
 					"name": "Does your web site has a SSL certificate?_1554378032",
 					"title": "Pute\u021bi demonstra existen\u021ba consim\u021b\u0103m\u00e2ntului?",
 					"correctAnswer": "Managerial_1554378032item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Managerial_1554378032item1",
@@ -2009,7 +2009,7 @@
 					"name": "Does your web site has a SSL certificate?_1554378063",
 					"title": "Realiza\u021bi activit\u0103\u021bi de prelucrare, de exemplu supraveghere video, sistem CCTV, GPS, marketing, \u00een scopul intereselor legitime urm\u0103rite de institu\u021bia\/compania dumneavoastr\u0103?",
 					"correctAnswer": "Managerial_1554378063item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Managerial_1554378063item1",
@@ -2066,7 +2066,7 @@
 					"name": "Does your web site has a SSL certificate?_1554378080",
 					"title": "Realiza\u021bi prelucr\u0103ri ale datelor cu caracter personal \u00een baza consim\u021b\u0103m\u00e2ntului persoanei vizate ?",
 					"correctAnswer": "Managerial_1554378080item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Managerial_1554378080item1",
@@ -2123,7 +2123,7 @@
 					"name": "Does your web site has a SSL certificate?_1554378093",
 					"title": "A\u021bi identificat temeiul legal pentru fiecare activitate de prelucrare?",
 					"correctAnswer": "Managerial_1554378093item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Managerial_1554378093item1",
@@ -2186,7 +2186,7 @@
 					"name": "Does your web site has a SSL certificate?_1554299750",
 					"title": "\u00cen cazul \u00een care realiza\u021bi o profilare a angaja\u021bilor (\u201ecreare de profiluri\u201d - \u00eenseamn\u0103 orice form\u0103 de prelucrare automat\u0103 a datelor cu caracter personal care const\u0103 \u00een utilizarea datelor cu caracter personal pentru a evalua anumite aspecte personale referitoare la o persoan\u0103 fizic\u0103, \u00een special pentru a analiza sau prevedea aspecte privind performan\u021ba la locul de munc\u0103, situa\u021bia economic\u0103, s\u0103n\u0103tatea, preferin\u021bele personale, interesele, fiabilitatea, comportamentul, locul \u00een care se afl\u0103 persoana fizic\u0103 respectiv\u0103 sau deplas\u0103rile acesteia;), a\u021bi informat angaja\u021bii cu privire la crearea de profiluri?",
 					"correctAnswer": "Relatiidemunca_1554299750item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Relatiidemunca_1554299750item1",
@@ -2243,7 +2243,7 @@
 					"name": "Does your web site has a SSL certificate?_1554299765",
 					"title": "Exist\u0103 o procedur\u0103 referitoare la prelucrarea datelor cu caracter personal ale angaja\u021bilor ?",
 					"correctAnswer": "Relatiidemunca_1554299765item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Relatiidemunca_1554299765item1",
@@ -2300,7 +2300,7 @@
 					"name": "Does your web site has a SSL certificate?_1554299786",
 					"title": "Contractul Colectiv de Munc\u0103 (CCM) \u00eencheiat la nivelul societ\u0103\u021bii\/institu\u021biei cuprinde clauze privind drepturi \u0219i obliga\u021bii ale angaja\u021bilor \u00een ceea ce prive\u0219te prelucrarea datelor cu caracter personal?",
 					"correctAnswer": "Relatiidemunca_1554299786item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Relatiidemunca_1554299786item1",
@@ -2357,7 +2357,7 @@
 					"name": "Does your web site has a SSL certificate?_1554299799",
 					"title": "\u00cen Contractul Colectiv de Munc\u0103 (CCM) \u00eencheiat la nivelul societ\u0103\u021bii\/institu\u021biei sunt prev\u0103zute drepturi \u0219i obliga\u021bii ale Operatorului \u00een ceea ce prive\u0219te protec\u021bia datelor cu caracter personal sau a vie\u021bii private?",
 					"correctAnswer": "Relatiidemunca_1554299799item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Relatiidemunca_1554299799item1",
@@ -2414,7 +2414,7 @@
 					"name": "Does your web site has a SSL certificate?_1554299827",
 					"title": "\u00cen Regulamentul intern sunt prev\u0103zute\u201eDrepturi \u0219i obliga\u021bii ale angajatorului \u0219i ale salaria\u021bilor\u201d, respectiv men\u021biuni privind drepturile persoanelor vizate \u0219i obliga\u021biile corespunz\u0103toare, precum \u0219i drepturile operatorului \u0219i obliga\u021biile corespunz\u0103toare, \u00een ceea ce prive\u0219te protec\u021bia datelor cu caracter personal?",
 					"correctAnswer": "Relatiidemunca_1554299827item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Relatiidemunca_1554299827item1",
@@ -2471,7 +2471,7 @@
 					"name": "Does your web site has a SSL certificate?_1554299844",
 					"title": "Fi\u0219a postului a persoanelor cu atribu\u021bii \u00een domeniul prelucr\u0103rii datelor cu caracter personal a fost completat\u0103 cu clauze privind protec\u021bia datelor?",
 					"correctAnswer": "Relatiidemunca_1554299844item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Relatiidemunca_1554299844item1",
@@ -2528,7 +2528,7 @@
 					"name": "Does your web site has a SSL certificate?_1554299859",
 					"title": "\u00cen cazul \u00een care realiza\u021bi o monitorizare a activit\u0103\u021bilor desf\u0103\u0219urate de angaja\u021bi pe sta\u021biile de lucru (calculator, laptop), angaja\u021bii au fost informa\u021bi cu privire la aceast\u0103 monitorizare?",
 					"correctAnswer": "Relatiidemunca_1554299859item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Relatiidemunca_1554299859item1",
@@ -2591,7 +2591,7 @@
 					"name": "Does your web site has a SSL certificate?_1553180809",
 					"title": "Exist\u0103 o procedur\u0103 pentru prelucrarea datelor cu caracter personal pentru cazurile \u00een care de\u0219i nu mai ave\u021bi nevoie de datele colectate \u00een scopul prelucr\u0103rii, persoana vizat\u0103 vi le-a solicitat pentru constatarea, exercitarea sau ap\u0103rarea unui drept \u00een instan\u021b\u0103?",
 					"correctAnswer": "Exercitaredrepturi_1553180809item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Exercitaredrepturi_1553180809item1",
@@ -2648,7 +2648,7 @@
 					"name": "Does your web site has a SSL certificate?_1553182375",
 					"title": "Ave\u021bi \u00eentocmit\u0103 o procedur\u0103 pentru comunicarea fiec\u0103rui destinatar c\u0103ruia i-au fost divulgate datele cu caracter personal orice rectificare sau \u0219tergere a datelor cu caracter personal sau restric\u021bionare a prelucr\u0103rii efectuate?",
 					"correctAnswer": "Exercitaredrepturi_1553182375item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Exercitaredrepturi_1553182375item1",
@@ -2705,7 +2705,7 @@
 					"name": "Does your web site has a SSL certificate?_1554298277",
 					"title": "Ave\u021bi implementat\u0103 o procedur\u0103 prin care s\u0103 oferi\u021bi \u00eentr-un format structurat, pe care \u00eel utiliza\u021bi \u00een mod curent \u0219i care poate fi citit automat datele cu caracter personal persoanelor vizate atunci c\u00e2nd le privesc?",
 					"correctAnswer": "Exercitaredrepturi_1554298277item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Exercitaredrepturi_1554298277item1",
@@ -2762,7 +2762,7 @@
 					"name": "Does your web site has a SSL certificate?_1554298298",
 					"title": "Oferi\u021bi posibilitatea persoanei vizate de a solicita ca datele cu caracter personal s\u0103 fie transmise direct de la dumneavoastr\u0103 la un alt operator de date cu caracter personal? Este acest format interoperabil \u0219i permite portabilitatea datelor?",
 					"correctAnswer": "Exercitaredrepturi_1554298298item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Exercitaredrepturi_1554298298item1",
@@ -2819,7 +2819,7 @@
 					"name": "Does your web site has a SSL certificate?_1554379595",
 					"title": "Exist\u0103 o procedur\u0103 pentru solu\u021bionarea cererii de opozi\u021bie la prelucrare?",
 					"correctAnswer": "Exercitaredrepturi_1554379595item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Exercitaredrepturi_1554379595item1",
@@ -2876,7 +2876,7 @@
 					"name": "Does your web site has a SSL certificate?_1554379609",
 					"title": "A\u021bi \u00eentocmit o procedur\u0103 de exercitare a drepturilor persoanelor vizate prev\u0103zute de RGPD? (acces, rectificare, \u0219tergere, opozi\u021bie, restric\u021bionarea prelucr\u0103rii, portabilitate)",
 					"correctAnswer": "Exercitaredrepturi_1554379609item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Exercitaredrepturi_1554379609item1",
@@ -2933,7 +2933,7 @@
 					"name": "Does your web site has a SSL certificate?_1554379619",
 					"title": "Procedura de exercitare a drepturilor persoanelor vizate a fost \u00eentocmit\u0103 \u00een baza prevederilor RGPD? (termenul de r\u0103spuns la cerere, informa\u021biile prev\u0103zute de art. 15 \u2013 18, 20 \u2013 22 RGPD?)",
 					"correctAnswer": "Exercitaredrepturi_1554379619item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Exercitaredrepturi_1554379619item1",
@@ -2990,7 +2990,7 @@
 					"name": "Does your web site has a SSL certificate?_1554379629",
 					"title": "A\u021bi \u00eentocmit formulare tipizate pentru exercitarea drepturilor persoanei vizate?",
 					"correctAnswer": "Exercitaredrepturi_1554379629item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Exercitaredrepturi_1554379629item1",
@@ -3047,7 +3047,7 @@
 					"name": "Does your web site has a SSL certificate?_1554379640",
 					"title": "Exist\u0103 o procedur\u0103 privind exercitarea dreptului de acces al persoanei vizate ?",
 					"correctAnswer": "Exercitaredrepturi_1554379640item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Exercitaredrepturi_1554379640item1",
@@ -3104,7 +3104,7 @@
 					"name": "Does your web site has a SSL certificate?_1554379650",
 					"title": "Exist\u0103 posibilitatea de a verifica identitatea unei persoane vizate care solicit\u0103 acces la date?",
 					"correctAnswer": "Exercitaredrepturi_1554379650item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Exercitaredrepturi_1554379650item1",
@@ -3161,7 +3161,7 @@
 					"name": "Does your web site has a SSL certificate?_1554379660",
 					"title": "Ave\u021bi implementat\u0103 o procedur\u0103 prin care s\u0103 oferi\u021bi posibilitatea persoanei vizate dreptul de  rectificare a datelor cu caracter personal inexacte?",
 					"correctAnswer": "Exercitaredrepturi_1554379660item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Exercitaredrepturi_1554379660item1",
@@ -3218,7 +3218,7 @@
 					"name": "Does your web site has a SSL certificate?_1554379671",
 					"title": "Ave\u021bi implementat\u0103 o procedur\u0103 prin care s\u0103 oferi\u021bi posibilitatea persoanei vizate de a-i fi \u0219terse datele cu caracter personal f\u0103r\u0103 \u00eent\u00e2rzieri nejustificate?",
 					"correctAnswer": "Exercitaredrepturi_1554379671item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Exercitaredrepturi_1554379671item1",
@@ -3275,7 +3275,7 @@
 					"name": "Does your web site has a SSL certificate?_1554379682",
 					"title": "Exist\u0103 o procedur\u0103 pentru prelucrarea datelor cu caracter personal pentru cazurile \u00een care o persoan\u0103 vizat\u0103 a contestat exactitatea datelor, pentru durata pentru care efectua\u021bi verific\u0103rile?",
 					"correctAnswer": "Exercitaredrepturi_1554379682item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Exercitaredrepturi_1554379682item1",
@@ -3332,7 +3332,7 @@
 					"name": "Does your web site has a SSL certificate?_1554379695",
 					"title": "Exist\u0103 o procedur\u0103 pentru cazurile \u00een care prelucrarea este ilegal\u0103 iar persoana vizat\u0103 s-a opus \u0219tergerii datelor, \u00een schimb a solicitat restric\u021bionarea prelucr\u0103rii?",
 					"correctAnswer": "Exercitaredrepturi_1554379695item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Exercitaredrepturi_1554379695item1",
@@ -3389,7 +3389,7 @@
 					"name": "Does your web site has a SSL certificate?_1554379706",
 					"title": "\u00cen procesul de recrutare, persoanelor vizate li se solicit\u0103 consim\u021b\u0103m\u00e2ntul ca CV-ul depus s\u0103 fie luat \u00een considerare \u0219i pentru alte pozi\u021bii \u0219i dac\u0103 mai doresc\/sau nu s\u0103 fie contactate pe viitor, de c\u0103tre reprezentan\u021bii companiei\/institu\u021biei Dvs.?",
 					"correctAnswer": "Exercitaredrepturi_1554379706item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Exercitaredrepturi_1554379706item1",
@@ -3452,7 +3452,7 @@
 					"name": "Does your web site has a SSL certificate?_1553182403",
 					"title": "A\u0163i informat angaja\u0163ii din cadrul companiei\/institu\u0163iei dumneavoastr\u0103 privind riscurile, normele, garan\u0163iile \u015fi drepturile \u00een materie de prelucrare a datelor cu caracter personal?",
 					"correctAnswer": "Instruire\u0219icon\u0219tientizare_1553182403item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Instruire\u0219icon\u0219tientizare_1553182403item1",
@@ -3509,7 +3509,7 @@
 					"name": "Does your web site has a SSL certificate?_1553182422",
 					"title": "Considera\u0163i c\u0103 persoanele din cadrul companiei\/institu\u0163iei dumneavoastr\u0103 sunt instruite adecvat pentru a respecta \u00een concret protec\u0163ia acestor date? ",
 					"correctAnswer": "Instruire\u0219icon\u0219tientizare_1553182422item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Instruire\u0219icon\u0219tientizare_1553182422item1",
@@ -3566,7 +3566,7 @@
 					"name": "Does your web site has a SSL certificate?_1554302372",
 					"title": "Desf\u0103\u015fura\u0163i un proces de con\u015ftientizare a angaja\u0163ilor asupra responsabilit\u0103\u0163ii companiei Dvs.\/institu\u021biei publice \u00een care lucra\u021bi, pentru \u00eenc\u0103lc\u0103rile vie\u0163ii private a clien\u0163ilor Dvs.?",
 					"correctAnswer": "Instruire\u0219icon\u0219tientizare_1554302372item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Instruire\u0219icon\u0219tientizare_1554302372item1",
@@ -3623,7 +3623,7 @@
 					"name": "Does your web site has a SSL certificate?_1554302400",
 					"title": "A\u0163i \u00eencheiat un proces-verbal \u00een urma sesiunilor de instruire?",
 					"correctAnswer": "Instruire\u0219icon\u0219tientizare_1554302400item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Instruire\u0219icon\u0219tientizare_1554302400item1",
@@ -3680,7 +3680,7 @@
 					"name": "Does your web site has a SSL certificate?_1554302412",
 					"title": "Angaja\u021bii institu\u021biei\/companiei au fost instrui\u021bi pentru a \u00een\u0219tiin\u021ba echipa managerial\u0103 f\u0103r\u0103 \u00eent\u00e2rzieri nejustificate dup\u0103 ce iau cuno\u0219tin\u021b\u0103 de o \u00eenc\u0103lcare a securit\u0103\u021bii datelor cu caracter personal?",
 					"correctAnswer": "Instruire\u0219icon\u0219tientizare_1554302412item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Instruire\u0219icon\u0219tientizare_1554302412item1",
@@ -3737,7 +3737,7 @@
 					"name": "Does your web site has a SSL certificate?_1554302422",
 					"title": "Angaja\u021bii institu\u021biei\/companiei au fost instrui\u021bi cu privire la riscurile folosirii  programelor software care provin din surse externe sau dubioase?",
 					"correctAnswer": "Instruire\u0219icon\u0219tientizare_1554302422item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Instruire\u0219icon\u0219tientizare_1554302422item1",
@@ -3800,7 +3800,7 @@
 					"name": "Does your web site has a SSL certificate?_1553182448",
 					"title": "Ave\u021bi contracte \u00eencheiate cu persoane fizice?",
 					"correctAnswer": "Rela\u021biiContractuale_1553182448item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Rela\u021biiContractuale_1553182448item1",
@@ -3857,7 +3857,7 @@
 					"name": "Does your web site has a SSL certificate?_1553182466",
 					"title": "Contractele cu persoanele fizice con\u021bin doar datele cu caracter personal ale acestora necesare scopului colect\u0103rii? (principiul minimiz\u0103rii \u2013 se colecteaz\u0103 doar acele date care sunt necesare)",
 					"correctAnswer": "Rela\u021biiContractuale_1553182466item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Rela\u021biiContractuale_1553182466item1",
@@ -3914,7 +3914,7 @@
 					"name": "Does your web site has a SSL certificate?_1554302876",
 					"title": "Exist\u0103 un temei juridic pentru stocarea anexelor la contracte ce con\u021bin date cu caracter personal? (ex. copii dup\u0103 cartea de identitate)",
 					"correctAnswer": "Rela\u021biiContractuale_1554302876item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Rela\u021biiContractuale_1554302876item1",
@@ -3971,7 +3971,7 @@
 					"name": "Does your web site has a SSL certificate?_1554302887",
 					"title": "Contractele cu persoanele fizice precizeaz\u0103 expres scopul \u0219i temeiul colect\u0103rii datelor?",
 					"correctAnswer": "Rela\u021biiContractuale_1554302887item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Rela\u021biiContractuale_1554302887item1",
@@ -4028,7 +4028,7 @@
 					"name": "Does your web site has a SSL certificate?_1554302898",
 					"title": "Contractele cu persoanele fizice con\u021bin garan\u021bii cu privire la protec\u021bia datelor cu caracter personal?",
 					"correctAnswer": "Rela\u021biiContractuale_1554302898item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Rela\u021biiContractuale_1554302898item1",
@@ -4085,7 +4085,7 @@
 					"name": "Does your web site has a SSL certificate?_1554302910",
 					"title": "Ave\u021bi \u00eencheiate contracte cu persoane juridice?",
 					"correctAnswer": "Rela\u021biiContractuale_1554302910item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Rela\u021biiContractuale_1554302910item1",
@@ -4142,7 +4142,7 @@
 					"name": "Does your web site has a SSL certificate?_1554302922",
 					"title": "Contractele cu persoanele juridice precizeaz\u0103 expres scopul \u0219i temeiul colect\u0103rii datelor cu caracter personal?",
 					"correctAnswer": "Rela\u021biiContractuale_1554302922item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Rela\u021biiContractuale_1554302922item1",
@@ -4199,7 +4199,7 @@
 					"name": "Does your web site has a SSL certificate?_1554302935",
 					"title": "Contractele cu persoanele juridice con\u021bin garan\u021bii cu privire la protec\u021bia datelor cu caracter personal?",
 					"correctAnswer": "Rela\u021biiContractuale_1554302935item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Rela\u021biiContractuale_1554302935item1",
@@ -4256,7 +4256,7 @@
 					"name": "Does your web site has a SSL certificate?_1554302947",
 					"title": "Contractele cu persoanele juridice (\u00een calitate de operator asociat\/persoan\u0103 \u00eemputernicit\u0103\/operatori independen\u021bi) se refer\u0103 la scopul \u0219i temeiul juridic al prelucr\u0103rii \u0219i con\u021bin garan\u021bii privind protec\u021bia datelor cu caracter personal ale persoanelor vizate?",
 					"correctAnswer": "Rela\u021biiContractuale_1554302947item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Rela\u021biiContractuale_1554302947item1",
@@ -4313,7 +4313,7 @@
 					"name": "Does your web site has a SSL certificate?_1554302959",
 					"title": "\u00cen cazul operatorilor asocia\u021bi, a\u021bi stabilit \u00eentr-un mod transparent responsabilit\u0103\u021bile fiec\u0103ruia \u00een ceea ce prive\u0219te \u00eendeplinirea obliga\u021biilor care le revin \u00een temeiul RGPD, \u00een special \u00een ceea ce prive\u0219te exercitarea drepturilor persoanelor vizate \u0219i \u00eendatoririle fiec\u0103ruia de furnizare a informa\u021biilor prev\u0103zute la articolele 13 \u0219i 14?",
 					"correctAnswer": "Rela\u021biiContractuale_1554302959item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Rela\u021biiContractuale_1554302959item1",
@@ -4370,7 +4370,7 @@
 					"name": "Does your web site has a SSL certificate?_1554302973",
 					"title": "Persoana\/persoanele \u00eemputernicite de c\u0103tre companie\/institu\u021bie ofer\u0103 garan\u021bii suficiente pentru punerea \u00een aplicare a unor m\u0103suri tehnice \u0219i organizatorice adecvate, astfel \u00eenc\u00e2t prelucrarea s\u0103 respecte cerin\u021bele prev\u0103zute \u00een prezentul regulament \u0219i s\u0103 asigure protec\u021bia drepturilor persoanei vizate?",
 					"correctAnswer": "Rela\u021biiContractuale_1554302973item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Rela\u021biiContractuale_1554302973item1",
@@ -4427,7 +4427,7 @@
 					"name": "Does your web site has a SSL certificate?_1554302987",
 					"title": "\u00cen calitate de operator a\u0163i oferit instruc\u021biuni adecvate persoanei \u00eemputernicite, \u00een forma scris\u0103 (clauze contractuale\/anex\u0103 la contract)?",
 					"correctAnswer": "Rela\u021biiContractuale_1554302987item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Rela\u021biiContractuale_1554302987item1",
@@ -4490,7 +4490,7 @@
 					"name": "Does your web site has a SSL certificate?_1553182502",
 					"title": "Compania\/institu\u0163ia pe care o reprezenta\u0163i UTILIZEAZ\u0102 un sistem de monitorizare prin intermediul GPS?",
 					"correctAnswer": "GPS_1553182502item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1553182502item1",
@@ -4547,7 +4547,7 @@
 					"name": "Does your web site has a SSL certificate?_1554716857",
 					"title": "Exist\u0103 o decizie a Conducerii cu privire la montarea \u015fi utilizarea sistemului GPS?",
 					"correctAnswer": "GPS_1554716857item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554716857item1",
@@ -4604,7 +4604,7 @@
 					"name": "Does your web site has a SSL certificate?_1554716926",
 					"title": "Este men\u0163ionat\u0103 monitorizarea prin intermediul sistemului GPS \u00een Regulamentul de Ordine Interioar\u0103 (ROI)?",
 					"correctAnswer": "GPS_1554716926item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554716926item1",
@@ -4661,7 +4661,7 @@
 					"name": "Does your web site has a SSL certificate?_1554716942",
 					"title": "Este men\u0163ionat\u0103 monitorizarea prin intermediul sistemului GPS \u00een Contractul Colectiv de Munc\u0103 (CCM)?",
 					"correctAnswer": "GPS_1554716942item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554716942item1",
@@ -4718,7 +4718,7 @@
 					"name": "Does your web site has a SSL certificate?_1554716953",
 					"title": "Este men\u0163ionat\u0103 monitorizarea prin intermediul sistemului GPS \u00een Contractul Individual de Munc\u0103 (CIM)?",
 					"correctAnswer": "GPS_1554716953item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554716953item1",
@@ -4775,7 +4775,7 @@
 					"name": "Does your web site has a SSL certificate?_1554716965",
 					"title": "Este men\u0163ionat accesul la sistemul de monitorizare a persoanelor care au acces la datele prelucrate prin intermediul sistemul GPS \u00een fi\u015fa postului?",
 					"correctAnswer": "GPS_1554716965item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554716965item1",
@@ -4832,7 +4832,7 @@
 					"name": "Does your web site has a SSL certificate?_1554716979",
 					"title": "Fiecare autovehicul al societ\u0103\u0163ii dumneavoastr\u0103\/institu\u0163iei pe care o reprezenta\u0163i este alocat unei persoane numite nominal?",
 					"correctAnswer": "GPS_1554716979item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554716979item1",
@@ -4889,7 +4889,7 @@
 					"name": "Does your web site has a SSL certificate?_1554716992",
 					"title": "Exist\u0103 un proces-verbal de predare-primire a autovehiculului?",
 					"correctAnswer": "GPS_1554716992item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554716992item1",
@@ -4946,7 +4946,7 @@
 					"name": "Does your web site has a SSL certificate?_1554717010",
 					"title": "Exist\u0103 o informare a persoanei vizate \u00een baza art. 14 RGPD, \u201eInforma\u0163ii care se furnizeaz\u0103 \u00een cazul \u00een care datele cu caracter personal nu au fost ob\u0163inute de la persoana vizat\u0103\u201d, cu privire la monitorizarea acesteia prin sistemul GPS?",
 					"correctAnswer": "GPS_1554717010item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554717010item1",
@@ -5003,7 +5003,7 @@
 					"name": "Does your web site has a SSL certificate?_1554717164",
 					"title": "Este utilizat\u0103 o pictogram\u0103 de tipul \u201eAUTOVEHICUL MONITORIZAT PRIN GPS\u201d, iar aceasta este aplicat\u0103 \u00een puncte-cheie astfel \u00eenc\u00e2t s\u0103 constituie o \u201ea\u015fteptare rezonabil\u0103\u201d a monitoriz\u0103rii?",
 					"correctAnswer": "GPS_1554717164item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554717164item1",
@@ -5060,7 +5060,7 @@
 					"name": "Does your web site has a SSL certificate?_1554717193",
 					"title": "Datele colectate prin intermediul sistemului GPS sunt utilizate exclusiv \u00een scopul declarat?",
 					"correctAnswer": "GPS_1554717193item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554717193item1",
@@ -5117,7 +5117,7 @@
 					"name": "Does your web site has a SSL certificate?_1554717207",
 					"title": "Datele colectate prin intermediul sistemului GPS sunt adecvate, relavante, limitate la strictul necesar \u00een conformitate cu art. 5, \u201ePrincipii legate de prelucrarea datelor cu caracter personal\u201d?",
 					"correctAnswer": "GPS_1554717207item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554717207item1",
@@ -5174,7 +5174,7 @@
 					"name": "Does your web site has a SSL certificate?_1554717220",
 					"title": "Exist\u0103 o politic\u0103 cu privire la utilizarea sistemului GPS \u015fi o politic\u0103 de utilizarea a autovehiculelor?",
 					"correctAnswer": "GPS_1554717220item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554717220item1",
@@ -5231,7 +5231,7 @@
 					"name": "Does your web site has a SSL certificate?_1554717236",
 					"title": "\u00cen cazul \u00een care autovehiculele se pot utiliza \u00een scop personal, exist\u0103 posibilitatea de a se face o distinc\u0163ie \u00eentre utilizarea autovehiculului \u00een scop personal \u015fi utilizarea \u00een interes de serviciu?",
 					"correctAnswer": "GPS_1554717236item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554717236item1",
@@ -5288,7 +5288,7 @@
 					"name": "Does your web site has a SSL certificate?_1554717250",
 					"title": "Exist\u0103 posibilitatea de a se face distinc\u0163ie \u00eentre utilizarea autovehiculului dup\u0103 programul de lucru \u015fi \u00een timpul exercit\u0103rii atribu\u0163iilor de serviciu?",
 					"correctAnswer": "GPS_1554717250item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554717250item1",
@@ -5345,7 +5345,7 @@
 					"name": "Does your web site has a SSL certificate?_1554717279",
 					"title": "Exist\u0103 o politic\u0103 de acces al datelor prelucrate prin intermediul sistemului GPS?",
 					"correctAnswer": "GPS_1554717279item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554717279item1",
@@ -5402,7 +5402,7 @@
 					"name": "Does your web site has a SSL certificate?_1554717298",
 					"title": "Exist\u0103 o eviden\u0163\u0103 a acces\u0103rii datelor prelucrate prin intermediul sistemului GPS?",
 					"correctAnswer": "GPS_1554717298item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554717298item1",
@@ -5459,7 +5459,7 @@
 					"name": "Does your web site has a SSL certificate?_1554717314",
 					"title": "Exist\u0103 un contract de prest\u0103ri servicii cu furnizorul de servicii GPS?",
 					"correctAnswer": "GPS_1554717314item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554717314item1",
@@ -5516,7 +5516,7 @@
 					"name": "Does your web site has a SSL certificate?_1554717340",
 					"title": "Furnizorul de servicii este conform cu prevederile RGPD \u015fi prezint\u0103 garan\u0163ii din privin\u0163a RGPD?",
 					"correctAnswer": "GPS_1554717340item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554717340item1",
@@ -5573,7 +5573,7 @@
 					"name": "Does your web site has a SSL certificate?_1554717386",
 					"title": "Exist\u0103 un contract de mentenan\u0163\u0103 \u00eencheiat cu privire la sistemul GPS?",
 					"correctAnswer": "GPS_1554717386item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554717386item1",
@@ -5630,7 +5630,7 @@
 					"name": "Does your web site has a SSL certificate?_1554717401",
 					"title": "Instalarea sistemelor electronice ce con\u0163in module GPS s-a f\u0103cut \u00een baza unui PROCES-VERBAL DE PREDARE-PRIMIRE?",
 					"correctAnswer": "GPS_1554717401item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554717401item1",
@@ -5687,7 +5687,7 @@
 					"name": "Does your web site has a SSL certificate?_1554717418",
 					"title": "PROCESUL-VERBAL DE PREDARE-PRIMIRE men\u0163ionat mai sus este \u00eencheiat pentru fiecare autovehicul \u00een parte?",
 					"correctAnswer": "GPS_1554717418item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554717418item1",
@@ -5744,7 +5744,7 @@
 					"name": "Does your web site has a SSL certificate?_1554717433",
 					"title": "Furnizorul de servicii GPS are acces la informa\u0163iile colectate de beneficiar?",
 					"correctAnswer": "GPS_1554717433item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554717433item1",
@@ -5801,7 +5801,7 @@
 					"name": "Does your web site has a SSL certificate?_1554717452",
 					"title": "Exist\u0103 posibilitatea ca beneficiarul sistemului de GPS (dumneavoastr\u0103) s\u0103 schimbe coordonatele de acces la sistemul GPS, astfel \u00eenc\u00e2t furnizorul s\u0103 nu mai aib\u0103 acces la datele colectate?",
 					"correctAnswer": "GPS_1554717452item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554717452item1",
@@ -5858,7 +5858,7 @@
 					"name": "Does your web site has a SSL certificate?_1554717467",
 					"title": "\u00cen cazul \u00een care accesul la sistemul de monitorizare prin GPS se face prin intermediul unei APLICA\u0162II puse la dispozi\u0163ia dumneavoastr\u0103 de c\u0103tre furnizor, aceast\u0103 aplica\u0163ie prezint\u0103 garan\u0163ii cu privire la securitatea datelor colectate, spre exemplu exist\u0103 posibilitatea de criptare\/pseudonimizare conform art. 6, \u201eLegalitatea prelucr\u0103rii\u201d, alin. (4) lit. (e) RGPD?",
 					"correctAnswer": "GPS_1554717467item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554717467item1",
@@ -5915,7 +5915,7 @@
 					"name": "Does your web site has a SSL certificate?_1554717523",
 					"title": "Este men\u0163ionat\u0103 modalitatea de atribuire\/trimitere a coordonatelor de acces la informa\u0163iile prelucrate prin sistemul GPS \u00een contractul cu furnizorul \u015fi exist\u0103 garan\u0163ii de securitate cu privire la modalitatea de atribuire a coordonatelor de acces?",
 					"correctAnswer": "GPS_1554717523item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554717523item1",
@@ -5972,7 +5972,7 @@
 					"name": "Does your web site has a SSL certificate?_1554717538",
 					"title": "\u00cen cazul \u00een care aplica\u0163ia utilizat\u0103 realizeaz\u0103 o profilare \u00een termenii RGPD, persoana vizat\u0103 este informat\u0103 cu privirea la realizarea unei profil\u0103ri automate prin intermediul sistemului GPS [Art. 4 alin. (4) \u2013 \u201ecreare de profiluri\u201d \u00eenseamn\u0103 orice form\u0103 de prelucrare automat\u0103 a datelor cu caracter personal care const\u0103 \u00een utilizarea datelor cu caracter personal pentru a evalua anumite aspecte personale referitoare la o persoan\u0103 fizic\u0103, \u00een special pentru a analiza sau prevedea aspecte privind performan\u0163a la locul de munc\u0103, situa\u0163ia economic\u0103, s\u0103n\u0103tatea, preferin\u0163ele personale, interesele, fiabilitatea, comportamentul, locul \u00een care se afl\u0103 persoana fizic\u0103 respectiv\u0103 sau deplas\u0103rile acesteia)?",
 					"correctAnswer": "GPS_1554717538item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554717538item1",
@@ -6029,7 +6029,7 @@
 					"name": "Does your web site has a SSL certificate?_1554717556",
 					"title": "\u00cen cazul \u00een care accesul la aplica\u0163ie se face \u00een baza unui username \u015fi parol\u0103, aceste coordonate sunt unice pentru fiecare dintre utilizatori?",
 					"correctAnswer": "GPS_1554717556item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554717556item1",
@@ -6086,7 +6086,7 @@
 					"name": "Does your web site has a SSL certificate?_1554717572",
 					"title": "\u00cen cazul \u00een care accesul la aplica\u0163ie\/software se face \u00een baza unui IP \u015fi a unei parole, aceste coordonate de acces sunt unice pentru fiecare utilizator? NU Recomandare: \u00cen cazul",
 					"correctAnswer": "GPS_1554717572item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554717572item1",
@@ -6143,7 +6143,7 @@
 					"name": "Does your web site has a SSL certificate?_1554717595",
 					"title": "Exist\u0103 o analiz\u0103 de risc efectuat\u0103 \u00eenainte de instalarea\/montarea \u015fi utilizarea sistemului GPS din care a rezultat necesitatea instal\u0103rii\/mont\u0103rii \u015fi utiliz\u0103rii unui sistem GPS?",
 					"correctAnswer": "GPS_1554717595item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554717595item1",
@@ -6200,7 +6200,7 @@
 					"name": "Does your web site has a SSL certificate?_1554717609",
 					"title": "Este clar determinat scopul \u00een care sistemul GPS este utilizat de c\u0103tre compania\/institu\u0163ia pe care o reprezenta\u0163i?",
 					"correctAnswer": "GPS_1554717609item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554717609item1",
@@ -6257,7 +6257,7 @@
 					"name": "Does your web site has a SSL certificate?_1554717625",
 					"title": "Exist\u0103 rapoarte (dovezi) care s\u0103 demonstreze eficien\u0163a sistemului GPS (de exemplu: economisirea carburantului, realizarea interesului \u00een care sunt utilizate autovehiculele f\u0103r\u0103 \u00eent\u00e2rzieri nejustificate etc.)?",
 					"correctAnswer": "GPS_1554717625item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554717625item1",
@@ -6314,7 +6314,7 @@
 					"name": "Does your web site has a SSL certificate?_1554717640",
 					"title": "Exist\u0103 un raport \u00eentre intruziunea \u00een via\u0163a persoanelor vizate (angaja\u0163ii sau cei care beneficiaz\u0103 de autovehiculele societ\u0103\u0163ii dumneavoastr\u0103\/institu\u0163iei pe care o reprezenta\u0163i) \u015fi beneficiile sistemului de monitorizare prin GPS?",
 					"correctAnswer": "GPS_1554717640item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554717640item1",
@@ -6371,7 +6371,7 @@
 					"name": "Does your web site has a SSL certificate?_1554717656",
 					"title": "Exist\u0103 posibilitatea de desf\u0103\u015furare a activit\u0103\u0163ilor \u00een interes de serviciu, \u00een condi\u0163ii asem\u0103n\u0103toare de eficien\u0163\u0103, f\u0103r\u0103 ca persoana vizat\u0103 s\u0103 fie monitorizat\u0103 prin GPS?",
 					"correctAnswer": "GPS_1554717656item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554717656item1",
@@ -6428,7 +6428,7 @@
 					"name": "Does your web site has a SSL certificate?_1554717673",
 					"title": "Exist\u0103 o informare prealabil\u0103 a posibilit\u0103\u0163ii de a nu fi monitorizat prin GPS \u00een desf\u0103\u015furarea activit\u0103\u0163ilor \u00een interes de serviciu?",
 					"correctAnswer": "GPS_1554717673item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554717673item1",
@@ -6485,7 +6485,7 @@
 					"name": "Does your web site has a SSL certificate?_1554717689",
 					"title": "\u00cen cazul \u00een care stocarea datelor cu caracter personal prelucrate prin intermediul sistemului GPS se face pe serverul furnizorului, exist\u0103 garan\u0163ii cu privire la securitatea datelor din serverele furnizorului?",
 					"correctAnswer": "GPS_1554717689item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554717689item1",
@@ -6542,7 +6542,7 @@
 					"name": "Does your web site has a SSL certificate?_1554717722",
 					"title": "Timpul de stocare a datelor colectate prin sistemul GPS este clar determinat \u015fi este stabilit \u00een conformitate cu principiile art. 5 RGPD, \u201ePrincipii legate de prelucrarea datelor cu caracter personal\u201d?",
 					"correctAnswer": "GPS_1554717722item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554717722item1",
@@ -6599,7 +6599,7 @@
 					"name": "Does your web site has a SSL certificate?_1554717744",
 					"title": "Exist\u0103 o inventariere a tuturor datelor cu caracter personal pe care sistemul GPS le \u00eenregistreaz\u0103?",
 					"correctAnswer": "GPS_1554717744item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554717744item1",
@@ -6656,7 +6656,7 @@
 					"name": "Does your web site has a SSL certificate?_1554717761",
 					"title": "Exist\u0103 un scop determinat privind necesitatea tuturor datelor cu caracter personal colectate prin intermediul sistemul GPS?",
 					"correctAnswer": "GPS_1554717761item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554717761item1",
@@ -6713,7 +6713,7 @@
 					"name": "Does your web site has a SSL certificate?_1554717779",
 					"title": "Accesul la sistemul GPS se poate efectua oric\u00e2nd \u015fi de oriunde de c\u0103tre persoanele care au un astfel de acces?",
 					"correctAnswer": "GPS_1554717779item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554717779item1",
@@ -6770,7 +6770,7 @@
 					"name": "Does your web site has a SSL certificate?_1554717796",
 					"title": "Accesul persoanelor care au dreptul de a accesa informa\u0163iile din sistemul GPS este oferit \u00een baza unei decizii a Conducerii (fi\u015fa postului)?",
 					"correctAnswer": "GPS_1554717796item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554717796item1",
@@ -6827,7 +6827,7 @@
 					"name": "Does your web site has a SSL certificate?_1554717813",
 					"title": "justific\u0103 scopul pentru care s-a acordat fiecare drept de acces, raportat la nevoia persoanei de a cunoa\u015fte? ",
 					"correctAnswer": "GPS_1554717813item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554717813item1",
@@ -6884,7 +6884,7 @@
 					"name": "Does your web site has a SSL certificate?_1554717833",
 					"title": "Accesul persoanelor care au dreptul de a prelucra informa\u0163iile din sistemul GPS este un acces de tip restric\u0163ionat, \u00een func\u0163ie de principiul \u201enevoii de a cunoa\u015fte\u201d \u015fi \u00een func\u0163ie de scopul accesului?",
 					"correctAnswer": "GPS_1554717833item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "GPS_1554717833item1",
@@ -6947,7 +6947,7 @@
 					"name": "Does your web site has a SSL certificate?_1553182531",
 					"title": "Compania\/Institu\u0163ia pe care o reprezenta\u0163i utilizeaz\u0103 un sistem de supraveghere de tipul CCTV?",
 					"correctAnswer": "CCTV_1553182531item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1553182531item1",
@@ -7004,7 +7004,7 @@
 					"name": "Does your web site has a SSL certificate?_1554455453",
 					"title": "Exist\u0103 o decizie a Conducerii cu privire la montarea \u015fi utilizarea unui sistem CCTV?",
 					"correctAnswer": "CCTV_1554455453item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554455453item1",
@@ -7061,7 +7061,7 @@
 					"name": "Does your web site has a SSL certificate?_1554455538",
 					"title": "Este men\u0163ionat\u0103 supravegherea prin intermediul sistemului CCTV \u00een Regulamentul de Ordine Interioar\u0103 (ROI)?",
 					"correctAnswer": "CCTV_1554455538item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554455538item1",
@@ -7118,7 +7118,7 @@
 					"name": "Does your web site has a SSL certificate?_1554455551",
 					"title": "Este men\u0163ionat\u0103 supravegherea prin intermediul sistemului CCTV \u00een Contractul Colectiv de Munc\u0103 (CCM)?",
 					"correctAnswer": "CCTV_1554455551item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554455551item1",
@@ -7175,7 +7175,7 @@
 					"name": "Does your web site has a SSL certificate?_1554455564",
 					"title": "Este men\u0163ionat\u0103 supravegherea prin intermediul sistemului CCTV \u00een Contractul Individual de Munc\u0103 (CIM)?",
 					"correctAnswer": "CCTV_1554455564item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554455564item1",
@@ -7232,7 +7232,7 @@
 					"name": "Does your web site has a SSL certificate?_1554455574",
 					"title": "Sunt men\u0163ionate \u00een fi\u015fa postului atribu\u0163ii cu privire la accesul \u015fi\/sau verificarea \u015fi\/sau utilizarea sistemului CCTV \u00een cazul persoanelor care au acces la acest sistem?",
 					"correctAnswer": "CCTV_1554455574item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554455574item1",
@@ -7289,7 +7289,7 @@
 					"name": "Does your web site has a SSL certificate?_1554455586",
 					"title": "Exist\u0103 o informare a persoanei vizate \u00een baza art. 14 RGPD, \u201eInforma\u0163ii care se furnizeaz\u0103 \u00een cazul \u00een care datele cu caracter personal nu au fost ob\u0163inute de la persoana vizat\u0103\u201d, cu privire la supravegherea acesteia prin sistemul CCTV?",
 					"correctAnswer": "CCTV_1554455586item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554455586item1",
@@ -7346,7 +7346,7 @@
 					"name": "Does your web site has a SSL certificate?_1554455596",
 					"title": "Este cunoscut\u0103 de persoanele vizate identitatea operatorului?",
 					"correctAnswer": "CCTV_1554455596item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554455596item1",
@@ -7403,7 +7403,7 @@
 					"name": "Does your web site has a SSL certificate?_1554455608",
 					"title": "Este cunoscut de persoanele vizate scopul urm\u0103rit de operator?",
 					"correctAnswer": "CCTV_1554455608item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554455608item1",
@@ -7460,7 +7460,7 @@
 					"name": "Does your web site has a SSL certificate?_1554455634",
 					"title": "Este cunoscut de persoanele vizate intervalul orar \u00een care are loc supravegherea?",
 					"correctAnswer": "CCTV_1554455634item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554455634item1",
@@ -7517,7 +7517,7 @@
 					"name": "Does your web site has a SSL certificate?_1554455686",
 					"title": "Este cunoscut de angajat locul de amplasare a camerelor de supraveghere?",
 					"correctAnswer": "CCTV_1554455686item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554455686item1",
@@ -7574,7 +7574,7 @@
 					"name": "Does your web site has a SSL certificate?_1554455707",
 					"title": "Este cunoscut de persoanele vizate termenul de p\u0103strare a \u00eenregistr\u0103rilor?",
 					"correctAnswer": "CCTV_1554455707item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554455707item1",
@@ -7631,7 +7631,7 @@
 					"name": "Does your web site has a SSL certificate?_1554455725",
 					"title": "Sunt cunoscute de persoanele vizate posibilit\u0103\u0163ile de utilizarea a \u00eenregistr\u0103rilor?",
 					"correctAnswer": "CCTV_1554455725item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554455725item1",
@@ -7688,7 +7688,7 @@
 					"name": "Does your web site has a SSL certificate?_1554455738",
 					"title": "Este utilizat\u0103 o pictograma de tipul \u201eOBIECTIV SUPRAVEGHEAT\/ MONITORIZAT VIDEO\u201d, iar aceasta este aplicat\u0103 \u00een puncte-cheie astfel \u00eenc\u00e2t s\u0103 constituie o \u201ea\u015fteptare rezonabil\u0103\u201d cu privire la supraveghere?",
 					"correctAnswer": "CCTV_1554455738item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554455738item1",
@@ -7745,7 +7745,7 @@
 					"name": "Does your web site has a SSL certificate?_1554455750",
 					"title": "Exist\u0103 un plan de montare a camerelor de supraveghere care este actualizat \u015fi \u00een concordan\u0163\u0103 cu contractul (contractele) cu furnizorul de servicii CCTV?",
 					"correctAnswer": "CCTV_1554455750item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554455750item1",
@@ -7802,7 +7802,7 @@
 					"name": "Does your web site has a SSL certificate?_1554455769",
 					"title": "Exist\u0103 un plan de protec\u0163ie \u015fi paz\u0103 \u00een conformitate cu legisla\u0163ia actual\u0103?",
 					"correctAnswer": "CCTV_1554455769item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554455769item1",
@@ -7859,7 +7859,7 @@
 					"name": "Does your web site has a SSL certificate?_1554455784",
 					"title": "Exist\u0103 un plan de securitate fizic\u0103?",
 					"correctAnswer": "CCTV_1554455784item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554455784item1",
@@ -7916,7 +7916,7 @@
 					"name": "Does your web site has a SSL certificate?_1554455797",
 					"title": "Sistemul CCTV este utilizat exclusiv \u00een scopul declarat?",
 					"correctAnswer": "CCTV_1554455797item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554455797item1",
@@ -7973,7 +7973,7 @@
 					"name": "Does your web site has a SSL certificate?_1554455810",
 					"title": "Exist\u0103 o politic\u0103 de utilizare a sistemului de supraveghere CCTV?",
 					"correctAnswer": "CCTV_1554455810item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554455810item1",
@@ -8030,7 +8030,7 @@
 					"name": "Does your web site has a SSL certificate?_1554455823",
 					"title": "Exist\u0103 o politic\u0103 de acces la sistemul CCTV?",
 					"correctAnswer": "CCTV_1554455823item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554455823item1",
@@ -8087,7 +8087,7 @@
 					"name": "Does your web site has a SSL certificate?_1554455836",
 					"title": "\u00cen cazul \u00een care exist\u0103 posibilitatea de utilizare a func\u0163iei ZOOM in\/out, exist\u0103 o politic\u0103 de utilizare a func\u0163iei ZOOM in\/out?",
 					"correctAnswer": "CCTV_1554455836item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554455836item1",
@@ -8144,7 +8144,7 @@
 					"name": "Does your web site has a SSL certificate?_1554455850",
 					"title": "Exist\u0103 o eviden\u0163\u0103 a acces\u0103rilor \u00eenregistr\u0103rilor din DVR-uri\/NVR-uri?",
 					"correctAnswer": "CCTV_1554455850item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554455850item1",
@@ -8201,7 +8201,7 @@
 					"name": "Does your web site has a SSL certificate?_1554455865",
 					"title": "Exist\u0103 un contract de prest\u0103ri servicii \u00eencheiat \u00een scopul furniz\u0103rii de servicii CCTV?",
 					"correctAnswer": "CCTV_1554455865item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554455865item1",
@@ -8258,7 +8258,7 @@
 					"name": "Does your web site has a SSL certificate?_1554455898",
 					"title": "Furnizorul prezint\u0103 garan\u0163ii din punctul de vedere al RGPD?",
 					"correctAnswer": "CCTV_1554455898item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554455898item1",
@@ -8315,7 +8315,7 @@
 					"name": "Does your web site has a SSL certificate?_1554455913",
 					"title": "Furnizorul are acces la \u00eenregistr\u0103rile din DVR-uri\/NVR-uri?",
 					"correctAnswer": "CCTV_1554455913item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554455913item1",
@@ -8372,7 +8372,7 @@
 					"name": "Does your web site has a SSL certificate?_1554455943",
 					"title": "Exist\u0103 posibilitatea ca beneficiarul sistemului CCTV (dumneavoastr\u0103) s\u0103 schimbe\/modifice coordonatele de acces la sistemul CCTV, astfel \u00eenc\u00e2t furnizorul s\u0103 nu mai aib\u0103 acces la datele colectate?",
 					"correctAnswer": "CCTV_1554455943item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554455943item1",
@@ -8429,7 +8429,7 @@
 					"name": "Does your web site has a SSL certificate?_1554456043",
 					"title": "Aplica\u0163ia prezint\u0103 garan\u0163ii cu privire la securitatea datelor colectate?",
 					"correctAnswer": "CCTV_1554456043item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554456043item1",
@@ -8486,7 +8486,7 @@
 					"name": "Does your web site has a SSL certificate?_1554456057",
 					"title": "Exist\u0103 posibilitatea de criptare\/pseudonimizare conform art. 6, \u201eLegalitatea prelucr\u0103rii\u201d, alin. (4) lit. (e) RGPD?",
 					"correctAnswer": "CCTV_1554456057item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554456057item1",
@@ -8543,7 +8543,7 @@
 					"name": "Does your web site has a SSL certificate?_1554456072",
 					"title": "\u00cen cazul \u00een care \u00een contractul cu furnizorul este men\u0163ionat\u0103 modalitatea de atribuire\/trimitere a coordonatelor de acces la informa\u0163iile prelucrate prin sistemul CCTV, exist\u0103 garan\u0163ii de securitate cu privire la modalitatea de atribuire a coordonatelor de acces?",
 					"correctAnswer": "CCTV_1554456072item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554456072item1",
@@ -8600,7 +8600,7 @@
 					"name": "Does your web site has a SSL certificate?_1554456090",
 					"title": "\u00cen cazul \u00een care aplica\u0163ia\/software-ul utilizeaz\u0103 o profilare \u00een termenii RGPD (art. 4 par. 4 \u2013 \u201ecreare de profiluri\u201d \u00eenseamn\u0103 orice form\u0103 de prelucrare automat\u0103 a datelor cu caracter personal care const\u0103 \u00een utilizarea datelor cu caracter personal pentru a evalua anumite aspecte personale referitoare la o persoan\u0103 fizic\u0103, \u00een special pentru a analiza sau prevedea aspecte privind performan\u0163a la locul de munc\u0103, situa\u0163ia economic\u0103, s\u0103n\u0103tatea, preferin\u0163ele personale, interesele, fiabilitatea, comportamentul, locul \u00een care se afl\u0103 persoana fizic\u0103 respectiv\u0103 sau deplas\u0103rile acesteia), persoana vizat\u0103 este informat\u0103 cu privirea la realizarea unei profil\u0103ri automate prin sistemul CCTV?",
 					"correctAnswer": "CCTV_1554456090item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554456090item1",
@@ -8657,7 +8657,7 @@
 					"name": "Does your web site has a SSL certificate?_1554456142",
 					"title": "\u00cen cazul \u00een care accesul la aplica\u0163ie\/software se face \u00een baza unui username \u015fi parol\u0103, ave\u0163i coordonate de acces unice pentru fiecare utilizator?",
 					"correctAnswer": "CCTV_1554456142item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554456142item1",
@@ -8714,7 +8714,7 @@
 					"name": "Does your web site has a SSL certificate?_1554456159",
 					"title": "\u00cen cazul \u00een care accesul la aplica\u0163ie\/software se face \u00een baza unui IP \u015fi a unei parole, aceste coordonate de acces sunt unice pentru fiecare utilizator?",
 					"correctAnswer": "CCTV_1554456159item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554456159item1",
@@ -8771,7 +8771,7 @@
 					"name": "Does your web site has a SSL certificate?_1554456177",
 					"title": "Exist\u0103 o analiz\u0103 de risc efectuat\u0103 \u00eenainte de montarea\/instalarea \u015fi utilizarea unui sistem CCTV?",
 					"correctAnswer": "CCTV_1554456177item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554456177item1",
@@ -8828,7 +8828,7 @@
 					"name": "Does your web site has a SSL certificate?_1554456604",
 					"title": "Din aceast\u0103 analiz\u0103 de risc a rezultat necesitatea mont\u0103rii\/instal\u0103rii \u015fi utiliz\u0103rii unui sistem CCTV?",
 					"correctAnswer": "CCTV_1554456604item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554456604item1",
@@ -8885,7 +8885,7 @@
 					"name": "Does your web site has a SSL certificate?_1554456709",
 					"title": "Este clar determinat scopul\/scopurile \u00een care sistemul CCTV este utilizat?",
 					"correctAnswer": "CCTV_1554456709item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554456709item1",
@@ -8942,7 +8942,7 @@
 					"name": "Does your web site has a SSL certificate?_1554456733",
 					"title": "Este sistemul CCTV eficient \u00een raport cu scopul\/scopurile utiliz\u0103rii acestuia?",
 					"correctAnswer": "CCTV_1554456733item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554456733item1",
@@ -8999,7 +8999,7 @@
 					"name": "Does your web site has a SSL certificate?_1554456811",
 					"title": "Exist\u0103 eviden\u0163e prin care se poate demonstra eficien\u0163a sistemului CCTV?",
 					"correctAnswer": "CCTV_1554456811item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554456811item1",
@@ -9056,7 +9056,7 @@
 					"name": "Does your web site has a SSL certificate?_1554456899",
 					"title": "\u00cen cazul \u00een care exist\u0103 solicit\u0103ri ale \u00eenregistr\u0103rilor din DVR-uri\/NVR-uri din partea organului de cercetare cu privire la investigarea unor infrac\u0163iuni, aceste \u00eenregistr\u0103ri au fost \u00eenm\u00e2nate organului de cercetare \u00een baza unui mandat sau \u00een baza unui proces-verbal de predare-primire?",
 					"correctAnswer": "CCTV_1554456899item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554456899item1",
@@ -9113,7 +9113,7 @@
 					"name": "Does your web site has a SSL certificate?_1554456932",
 					"title": "Exist\u0103 un raport \u00eentre intruziunea \u00een via\u0163a persoanelor vizate (angaja\u0163i, clien\u0163i, vizitatori etc.) \u015fi beneficiile utiliz\u0103rii sistemului CCTV?",
 					"correctAnswer": "CCTV_1554456932item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554456932item1",
@@ -9170,7 +9170,7 @@
 					"name": "Does your web site has a SSL certificate?_1554456958",
 					"title": "\u00cen cazul \u00een care sistemul CCTV este folosit pentru a monitorizarea activit\u0103\u0163ile de serviciu, exist\u0103 posibilitatea de a desf\u0103\u015fura activit\u0103\u0163ile de serviciu f\u0103r\u0103 ca persoana vizat\u0103 s\u0103 fie supravegheat\u0103 prin intermediul sistemului CCTV?",
 					"correctAnswer": "CCTV_1554456958item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554456958item1",
@@ -9227,7 +9227,7 @@
 					"name": "Does your web site has a SSL certificate?_1554456977",
 					"title": "\u00cen cazul \u00een care supravegherea CCTV nu este obligatorie pentru desf\u0103\u015furarea conform\u0103 a activit\u0103\u0163ilor \u00een interes de serviciu, s-a f\u0103cut o informare prealabil\u0103 cu privire la consecin\u0163ele neaccept\u0103rii supravegherii prin intermediul sistemului CCTV?",
 					"correctAnswer": "CCTV_1554456977item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554456977item1",
@@ -9284,7 +9284,7 @@
 					"name": "Does your web site has a SSL certificate?_1554456998",
 					"title": "\u00cen cazul \u00een care camerele de supraveghere au ca scop supravegherea angaja\u0163ilor, consultarea sistemului CCTV poate duce la cercetarea disciplinar\u0103 a angaja\u0163ilor?",
 					"correctAnswer": "CCTV_1554456998item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554456998item1",
@@ -9341,7 +9341,7 @@
 					"name": "Does your web site has a SSL certificate?_1554457015",
 					"title": "\u00cen cazul \u00een care exist\u0103 camere de supraveghere care supravegheaz\u0103 spa\u0163iul public \u00een mod direct sau indirect, exist\u0103 un consim\u0163\u0103m\u00e2nt al vecinilor, persoane fizice, cu privire la func\u0163ionarea \u015fi utilizarea sistemului CCTV?",
 					"correctAnswer": "CCTV_1554457015item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554457015item1",
@@ -9398,7 +9398,7 @@
 					"name": "Does your web site has a SSL certificate?_1554457033",
 					"title": "Exist\u0103 camere de supraveghere \u00een interiorul obiectivului supravegheat prin intermediul sistemului CCTV (de exemplu: birouri, vestiare, toalete, sala de mas\u0103 etc.) unde persoanele vizate se pot a\u015ftepta s\u0103 nu fie supravegheate?",
 					"correctAnswer": "CCTV_1554457033item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554457033item1",
@@ -9455,7 +9455,7 @@
 					"name": "Does your web site has a SSL certificate?_1554457050",
 					"title": "\u00cen cazul \u00een care utiliza\u0163i camere de supraveghere care \u00eenregistreaz\u0103 at\u00e2t video, c\u00e2t \u015fi audio, acest aspect este cunoscut de angaja\u0163i sau de persoanele vizate?",
 					"correctAnswer": "CCTV_1554457050item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554457050item1",
@@ -9512,7 +9512,7 @@
 					"name": "Does your web site has a SSL certificate?_1554457070",
 					"title": "Este cunoscut\u0103 angaja\u0163ilor pozi\u0163ia exact\u0103 a fiec\u0103rei camere care \u00eenregistreaz\u0103 audio?",
 					"correctAnswer": "CCTV_1554457070item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554457070item1",
@@ -9569,7 +9569,7 @@
 					"name": "Does your web site has a SSL certificate?_1554457276",
 					"title": "Stocarea datelor cu caracter personal prelucrate prin intermediul sistemului CCTV se face pe serverul propriu?",
 					"correctAnswer": "CCTV_1554457276item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554457276item1",
@@ -9626,7 +9626,7 @@
 					"name": "Does your web site has a SSL certificate?_1554457297",
 					"title": "Timpul de stocare a datelor colectate prin intermediul sistemul CCTV este clar determinat \u015fi este \u00eentre 20 de zile \u015fi 30 de zile? ",
 					"correctAnswer": "CCTV_1554457297item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554457297item1",
@@ -9683,7 +9683,7 @@
 					"name": "Does your web site has a SSL certificate?_1554457323",
 					"title": "Exist\u0103 o eviden\u0163\u0103 a persoanelor care au acces la \u00eenc\u0103perea unde se afl\u0103 situate DVR-urile\/NVR-urile?",
 					"correctAnswer": "CCTV_1554457323item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554457323item1",
@@ -9740,7 +9740,7 @@
 					"name": "Does your web site has a SSL certificate?_1554457353",
 					"title": "Exist\u0103 o modalitate de securizare fizic\u0103 a DVR-urilor\/ NVR-urilor?",
 					"correctAnswer": "CCTV_1554457353item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554457353item1",
@@ -9797,7 +9797,7 @@
 					"name": "Does your web site has a SSL certificate?_1554457372",
 					"title": "Exist\u0103 un sistem de back-up pentru sistemul CCTV?",
 					"correctAnswer": "CCTV_1554457372item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554457372item1",
@@ -9854,7 +9854,7 @@
 					"name": "Does your web site has a SSL certificate?_1554457391",
 					"title": "Tipul de stocare a datelor \u00een DVR-uri\/NVR-uri este \u00een bucl\u0103 (de exemplu: se \u015fterge ultimul moment \u00eenregistrat pentru a face loc unui nou moment)?",
 					"correctAnswer": "CCTV_1554457391item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554457391item1",
@@ -9911,7 +9911,7 @@
 					"name": "Does your web site has a SSL certificate?_1554457423",
 					"title": "\u00cen cazul \u00een care compania\/institu\u0163ia pe care o reprezenta\u0163i \u00ee\u015fi desf\u0103\u015foar\u0103 activitatea \u00eentr-un spa\u0163iu \u00eenchiriat, iar locatorul are instalat un sistem propriu de supraveghere prin CCTV, locatorul prezint\u0103 garan\u0163ii cu privire la utilizarea sistemului de supraveghere CCTV din punctul de vedere al RGPD?",
 					"correctAnswer": "CCTV_1554457423item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554457423item1",
@@ -9968,7 +9968,7 @@
 					"name": "Does your web site has a SSL certificate?_1554457453",
 					"title": "Accesul la sistemul CCTV se efectueaz\u0103 prin intermediul re\u0163elei comune de internet?",
 					"correctAnswer": "CCTV_1554457453item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554457453item1",
@@ -10025,7 +10025,7 @@
 					"name": "Does your web site has a SSL certificate?_1554457476",
 					"title": "Re\u0163eaua de internet este securizat\u0103?",
 					"correctAnswer": "CCTV_1554457476item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554457476item1",
@@ -10082,7 +10082,7 @@
 					"name": "Does your web site has a SSL certificate?_1554457505",
 					"title": "Accesul la \u00eenregistr\u0103rile din DVR-uri\/NVR-uri se poate efectua oric\u00e2nd \u015fi oriunde de c\u0103tre persoana care are acces?",
 					"correctAnswer": "CCTV_1554457505item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554457505item1",
@@ -10139,7 +10139,7 @@
 					"name": "Does your web site has a SSL certificate?_1554457525",
 					"title": "Accesul persoanelor care au dreptul de a prelucra informa\u0163iile din sistemul CCTV este oferit \u00een baza unui decizii a Conducerii (fi\u015fei postului)?",
 					"correctAnswer": "CCTV_1554457525item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554457525item1",
@@ -10196,7 +10196,7 @@
 					"name": "Does your web site has a SSL certificate?_1554457549",
 					"title": "Se justific\u0103 scopul pentru care s-a acordat fiecare drept de acces, raportat la nevoia persoanei de a cunoa\u015fte?",
 					"correctAnswer": "CCTV_1554457549item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554457549item1",
@@ -10253,7 +10253,7 @@
 					"name": "Does your web site has a SSL certificate?_1554457572",
 					"title": "Accesul persoanelor care au dreptul de a accesa \u00eenregistr\u0103rile din DVR-uri\/NVR-uri este un acces de tip \u201etotal\u201d?",
 					"correctAnswer": "CCTV_1554457572item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "CCTV_1554457572item1",
@@ -10316,7 +10316,7 @@
 					"name": "Does your web site has a SSL certificate?_1553182547",
 					"title": " INTREBARE  1 Sectiunea Infrastructura IT",
 					"correctAnswer": "InfrastructuraIT_1553182547item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "InfrastructuraIT_1553182547item1",
@@ -10373,7 +10373,7 @@
 					"name": "Does your web site has a SSL certificate?_1554723423",
 					"title": "INTREBARE 2 Sectiunea Infrastructura IT",
 					"correctAnswer": "InfrastructuraIT_1554723423item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "InfrastructuraIT_1554723423item1",
@@ -10430,7 +10430,7 @@
 					"name": "Does your web site has a SSL certificate?_1554723455",
 					"title": "INTREBARE 3 Sectiunea Infrastructura IT",
 					"correctAnswer": "InfrastructuraIT_1554723455item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "InfrastructuraIT_1554723455item1",
@@ -10487,7 +10487,7 @@
 					"name": "Does your web site has a SSL certificate?_1554723483",
 					"title": "INTREBARE 4 Sectiunea Infrastructura IT",
 					"correctAnswer": "InfrastructuraIT_1554723483item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "InfrastructuraIT_1554723483item1",
@@ -10544,7 +10544,7 @@
 					"name": "Does your web site has a SSL certificate?_1554723495",
 					"title": "INTREBARE 5 Sectiunea Infrastructura IT",
 					"correctAnswer": "InfrastructuraIT_1554723495item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "InfrastructuraIT_1554723495item1",
@@ -10601,7 +10601,7 @@
 					"name": "Does your web site has a SSL certificate?_1554723508",
 					"title": "INTREBARE 6 Sectiunea Infrastructura IT",
 					"correctAnswer": "InfrastructuraIT_1554723508item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "InfrastructuraIT_1554723508item1",
@@ -10658,7 +10658,7 @@
 					"name": "Does your web site has a SSL certificate?_1554723520",
 					"title": " INTREBARE 7 Sectiunea Infrastructura IT",
 					"correctAnswer": "InfrastructuraIT_1554723520item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "InfrastructuraIT_1554723520item1",
@@ -10715,7 +10715,7 @@
 					"name": "Does your web site has a SSL certificate?_1554723576",
 					"title": "INTREBARE 8 Sectiunea Infrastructura IT",
 					"correctAnswer": "InfrastructuraIT_1554723576item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "InfrastructuraIT_1554723576item1",
@@ -10772,7 +10772,7 @@
 					"name": "Does your web site has a SSL certificate?_1554723591",
 					"title": "INTREBARE 9 Sectiunea Infrastructura IT",
 					"correctAnswer": "InfrastructuraIT_1554723591item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "InfrastructuraIT_1554723591item1",
@@ -10829,7 +10829,7 @@
 					"name": "Does your web site has a SSL certificate?_1554723634",
 					"title": "INTREBARE 10 Sectiunea Infrastructura IT",
 					"correctAnswer": "InfrastructuraIT_1554723634item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "InfrastructuraIT_1554723634item1",
@@ -10890,9 +10890,9 @@
 				{
 					"type": "radiogroup",
 					"name": "Does your web site has a SSL certificate?_1553182568",
-					"title": "INTREBARE 1 Sectiunea Web Site si Online Marketing",
+					"title": "Web site-ul dvs. folose\u0219te un certificat SSL (exist\u0103 https \u00een fa\u021ba numelui de domeniu)?",
 					"correctAnswer": "WebSitesiOnlineMarketing_1553182568item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "WebSitesiOnlineMarketing_1553182568item1",
@@ -10900,7 +10900,7 @@
 						},
 						{
 							"value": "WebSitesiOnlineMarketing_1553182568item2",
-							"text": "NU"
+							"text": "NU "
 						},
 						{
 							"value": "WebSitesiOnlineMarketing_1553182568item3",
@@ -10927,7 +10927,7 @@
 					"type": "html",
 					"name": "Comments and download for YES - please add your suggestions here_1553182568",
 					"visibleIf": "{Does your web site has a SSL certificate?_1553182568} = \"WebSitesiOnlineMarketing_1553182568item1\"",
-					"html": "CONFORMARE INTREBARE 1 Sectiunea Web Site si Online Marketing"
+					"html": "Criteriul este \u00eendeplinit, sunte\u021bi \u00een conformitate cu normele RGPD.\u2013 Pentru men\u021binerea nivelului de conformitate este recomandat s\u0103 v\u0103 asigura\u021bi c\u0103 re\u00eennoi\u021bi certificatul de securitate \u00eenainte ca acesta s\u0103 expire. "
 				},
 				{
 					"type": "html",
@@ -10935,21 +10935,21 @@
 					"visible": false,
 					"visibleIf": "{Does your web site has a SSL certificate?_1553182568} = \"WebSitesiOnlineMarketing_1553182568item2\"",
 					"valueName": "Comments and download for NO - please add your suggestions here",
-					"html": "RECOMANDARI INTREBARE 1 Sectiunea Web Site si Online Marketing"
+					"html": "Toate website-urile (\u00een special cele care colecteaz\u0103 date cu caracter personal) trebuie s\u0103 foloseasc\u0103 SSL. Este important de \u0219tiut c\u0103 astfel de certificate se pot ob\u021bine gratuit, pe sume modice sau sume mai consistente \u0219i serverul web trebuie s\u0103 foloseasc\u0103 o adresa IP dedicat\u0103 pentru a putea instala \/ configura un astfel de certificat. "
 				},
 				{
 					"type": "comment",
 					"name": "Notes for - Does your web site has a SSL certificate?_1553182568",
 					"visible": false,
 					"visibleIf": "{Allow Notes for Does your web site has a SSL certificate?_1553182568} = [\"WebSitesiOnlineMarketing_1553182568item1\"]",
-					"title": "Notes"
+					"title": "Note legate de aceast\u0103 \u00eentrebare"
 				},
 				{
 					"type": "radiogroup",
 					"name": "Does your web site has a SSL certificate?_1554722423",
-					"title": "INTREBARE 2 Sectiunea Web Site si Online Marketing",
+					"title": "IA\u021bi \u00eentreprins m\u0103suri pentru securizarea website-ului (actualiz\u0103ri la ultimele versiuni ale softului din spatele site-ului, parole complexe, restric\u021bionarea accesului la baza de date)?",
 					"correctAnswer": "WebSitesiOnlineMarketing_1554722423item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "WebSitesiOnlineMarketing_1554722423item1",
@@ -10984,7 +10984,7 @@
 					"type": "html",
 					"name": "Comments and download for YES - please add your suggestions here_1554722423",
 					"visibleIf": "{Does your web site has a SSL certificate?_1554722423} = \"WebSitesiOnlineMarketing_1554722423item1\"",
-					"html": "CONFORMARE INTREBAREA 2 Sectiunea Web Site si Online Marketing"
+					"html": "Criteriul este \u00eendeplinit, sunte\u021bi \u00een conformitate cu normele RGPD.\u2013\u2013 Men\u021binerea unei securit\u0103\u021bi ridicate a versetului este o ac\u021biune continu\u0103, astfel recomandarea noastr\u0103 este s\u0103 verifica\u021bi periodic dac\u0103 exist\u0103 actualiz\u0103ri ale softurilor care ruleaz\u0103 \u00een spatele website-ului precum \u0219i a altor modulelor instalate. "
 				},
 				{
 					"type": "html",
@@ -10992,21 +10992,21 @@
 					"visible": false,
 					"visibleIf": "{Does your web site has a SSL certificate?_1554722423} = \"WebSitesiOnlineMarketing_1554722423item2\"",
 					"valueName": "Comments and download for NO - please add your suggestions here",
-					"html": "\nRECOMANDARI INTREBAREA 2 Sectiunea Web Site si Online Marketing\n"
+					"html": "Securizare website-ului este deosebit de important\u0103 deoarece dac\u0103 se ob\u021bine un acces neautorizat \u00een modulul de administrare al site-ului se poate avea acces la o serie de informa\u021bii \u0219i date cu caracter personal ceea ce reprezint\u0103 o bre\u0219\u0103 de securitate. Pentru ridicarea nivelul de securitate al website-ului dumneavoastr\u0103 exist\u0103 diverse unelte care v\u0103 pot ajuta \u00een acest sens. \n"
 				},
 				{
 					"type": "comment",
 					"name": "Notes for - Does your web site has a SSL certificate?_1554722423",
 					"visible": false,
 					"visibleIf": "{Allow Notes for Does your web site has a SSL certificate?_1554722423} = [\"WebSitesiOnlineMarketing_1554722423item1\"]",
-					"title": "Notes"
+					"title": "Note legate de acesta \u00eentrebare"
 				},
 				{
 					"type": "radiogroup",
 					"name": "Does your web site has a SSL certificate?_1554722444",
-					"title": "INTREBARE 3 Sectiunea Web Site si Online Marketing",
+					"title": "A\u021bi schimbat datele de log in ini\u021biale pentru serverul web?",
 					"correctAnswer": "WebSitesiOnlineMarketing_1554722444item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "WebSitesiOnlineMarketing_1554722444item1",
@@ -11041,7 +11041,7 @@
 					"type": "html",
 					"name": "Comments and download for YES - please add your suggestions here_1554722444",
 					"visibleIf": "{Does your web site has a SSL certificate?_1554722444} = \"WebSitesiOnlineMarketing_1554722444item1\"",
-					"html": "CONFORMARE INTREBAREA 3 Sectiunea Web Site si Online Marketing"
+					"html": "Criteriul este \u00eendeplinit, sunte\u021bi \u00een conformitate cu normele RGPD.\u2013 Intra\u021bi \u00een categoria acelor 60% dintre utilizatorii de servere care modifica aceste date ini\u021biale pe login."
 				},
 				{
 					"type": "html",
@@ -11049,21 +11049,21 @@
 					"visible": false,
 					"visibleIf": "{Does your web site has a SSL certificate?_1554722444} = \"WebSitesiOnlineMarketing_1554722444item2\"",
 					"valueName": "Comments and download for NO - please add your suggestions here",
-					"html": "RECOMANDARI INTREBAREA 3 Sectiunea Web Site si Online Marketing\n"
+					"html": "Recomandarea noastr\u0103 este s\u0103 schimba\u021bi aceste date, deoarece s-ar putea s\u0103 fi compromise din moment ce au fost livrate pe e-mail c\u0103tre dumneavoastr\u0103 \u00een momentul achizi\u021bion\u0103rii."
 				},
 				{
 					"type": "comment",
 					"name": "Notes for - Does your web site has a SSL certificate?_1554722444",
 					"visible": false,
 					"visibleIf": "{Allow Notes for Does your web site has a SSL certificate?_1554722444} = [\"WebSitesiOnlineMarketing_1554722444item1\"]",
-					"title": "Notes"
+					"title": "Note legate de acesta \u00eentrebare"
 				},
 				{
 					"type": "radiogroup",
 					"name": "Does your web site has a SSL certificate?_1554722461",
-					"title": "INTREBARE  4 Sectiunea Web Site si Online Marketing",
+					"title": "V-a\u021bi asigurat c\u0103 Statisticile web respect\u0103 prevederile GDPR \u0219i a\u021bi f\u0103cut set\u0103rile necesare?",
 					"correctAnswer": "WebSitesiOnlineMarketing_1554722461item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "WebSitesiOnlineMarketing_1554722461item1",
@@ -11098,7 +11098,7 @@
 					"type": "html",
 					"name": "Comments and download for YES - please add your suggestions here_1554722461",
 					"visibleIf": "{Does your web site has a SSL certificate?_1554722461} = \"WebSitesiOnlineMarketing_1554722461item1\"",
-					"html": "CONFORMARE INTREBARE 4 Sectiunea Web Site si Online Marketing"
+					"html": "Criteriul este \u00eendeplinit, sunte\u021bi \u00een conformitate cu normele RGPD."
 				},
 				{
 					"type": "html",
@@ -11106,21 +11106,21 @@
 					"visible": false,
 					"visibleIf": "{Does your web site has a SSL certificate?_1554722461} = \"WebSitesiOnlineMarketing_1554722461item2\"",
 					"valueName": "Comments and download for NO - please add your suggestions here",
-					"html": "\nRECOMANDARI  INTREBARE 4 Sectiunea Web Site si Online Marketing"
+					"html": "\nMajoritatea softurilor care ofer\u0103 statistici web sunt conforme cu GDPR, de asemenea ele explic\u0103 ce set\u0103ri trebuie s\u0103 face\u021bi dumneavoastr\u0103 astfel \u00eenc\u00e2t site-ul dumneavoastr\u0103 s\u0103 fie conform \u0219i datele colectate s\u0103 fie anonime."
 				},
 				{
 					"type": "comment",
 					"name": "Notes for - Does your web site has a SSL certificate?_1554722461",
 					"visible": false,
 					"visibleIf": "{Allow Notes for Does your web site has a SSL certificate?_1554722461} = [\"WebSitesiOnlineMarketing_1554722461item1\"]",
-					"title": "Notes"
+					"title": "Note legate de acesta \u00eentrebare"
 				},
 				{
 					"type": "radiogroup",
 					"name": "Does your web site has a SSL certificate?_1554722474",
-					"title": " INTREBARE 5 Sectiunea Web Site si Online Marketing",
+					"title": "Web site-ul dvs. are o politic\u0103 de cookies?",
 					"correctAnswer": "WebSitesiOnlineMarketing_1554722474item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "WebSitesiOnlineMarketing_1554722474item1",
@@ -11155,7 +11155,7 @@
 					"type": "html",
 					"name": "Comments and download for YES - please add your suggestions here_1554722474",
 					"visibleIf": "{Does your web site has a SSL certificate?_1554722474} = \"WebSitesiOnlineMarketing_1554722474item1\"",
-					"html": "CONFORMARE INTREBARE 5 Sectiunea Web Site si Online Marketing"
+					"html": "Criteriul este \u00eendeplinit, sunte\u021bi \u00een conformitate cu normele RGPD.\u2013 Este foarte important ca politica de cookies prezent\u0103 pe site-ul dumneavoastr\u0103 s\u0103 fie actualizat\u0103 periodic astfel \u00eenc\u00e2t s\u0103 reflecte num\u0103rul de date colectate \u0219i scopurile pentru care acestea sunt colectate. De men\u021bionat este \u0219i faptul c\u0103 politica de cookies trebuie pus\u0103 \u0219i pe site-urile care nu folosesc cookies deoarece vizitatorii ar trebui s\u0103 fie informa\u021bi \u00een acest sens."
 				},
 				{
 					"type": "html",
@@ -11163,21 +11163,21 @@
 					"visible": false,
 					"visibleIf": "{Does your web site has a SSL certificate?_1554722474} = \"WebSitesiOnlineMarketing_1554722474item2\"",
 					"valueName": "Comments and download for NO - please add your suggestions here",
-					"html": "CONFORMARE INTREBARE 5 Sectiunea Web Site si Online Marketing"
+					"html": "Politica de cookies este necesar\u0103 pentru conformare la GDPR. Aceasta poate fi una complex\u0103 \u00een care s\u0103 fie explicat fiecare cookies \u0219i scopul pentru care este colectat sau poate fi una generic\u0103 \u00een care se men\u021bioneaz\u0103 c\u0103 site-ul colecteaz\u0103 cookies cu diverse scopuri cum ar fi marketing etc. Este important s\u0103 dezvolta\u021bi \u0219i s\u0103 implementa\u021bi pe site o astfel de pagin\u0103 care s\u0103 explice politica de cookies. "
 				},
 				{
 					"type": "comment",
 					"name": "Notes for - Does your web site has a SSL certificate?_1554722474",
 					"visible": false,
 					"visibleIf": "{Allow Notes for Does your web site has a SSL certificate?_1554722474} = [\"WebSitesiOnlineMarketing_1554722474item1\"]",
-					"title": "Notes"
+					"title": "Note legate de acesta \u00eentrebare"
 				},
 				{
 					"type": "radiogroup",
 					"name": "Does your web site has a SSL certificate?_1554722489",
-					"title": "INTREBARE 6 Sectiunea Web Site si Online Marketing",
+					"title": "Web site-ul dvs. cere acordul de a folosi cookies?",
 					"correctAnswer": "WebSitesiOnlineMarketing_1554722489item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "WebSitesiOnlineMarketing_1554722489item1",
@@ -11212,7 +11212,7 @@
 					"type": "html",
 					"name": "Comments and download for YES - please add your suggestions here_1554722489",
 					"visibleIf": "{Does your web site has a SSL certificate?_1554722489} = \"WebSitesiOnlineMarketing_1554722489item1\"",
-					"html": "\nCONFORMARE INTREBARE 6 Sectiunea Web Site si Online Marketing"
+					"html": "\nCriteriul este \u00eendeplinit, sunte\u021bi \u00een conformitate cu normele RGPD.\u2013  V\u0103 rug\u0103m s\u0103 v\u0103 asigura\u021bi c\u0103 exist\u0103 un link c\u0103tre politica de cookies cu care utilizatorul s\u0103 fie de acord.\n\n"
 				},
 				{
 					"type": "html",
@@ -11220,21 +11220,21 @@
 					"visible": false,
 					"visibleIf": "{Does your web site has a SSL certificate?_1554722489} = \"WebSitesiOnlineMarketing_1554722489item2\"",
 					"valueName": "Comments and download for NO - please add your suggestions here",
-					"html": "RECOMANDARI INTREBARE 6 Sectiunea Web Site si Online Marketing"
+					"html": "Un astfel de acord reprezint\u0103 practic consim\u021b\u0103m\u00e2ntul utilizatorului de a accepta pe dispozitivele de pe care acceseaz\u0103 site-ul dumneavoastr\u0103 cookie-urile folosite. Deci pentru conformare implementarea unui astfel de mecanisme este necesar\u0103. "
 				},
 				{
 					"type": "comment",
 					"name": "Notes for - Does your web site has a SSL certificate?_1554722489",
 					"visible": false,
 					"visibleIf": "{Allow Notes for Does your web site has a SSL certificate?_1554722489} = [\"WebSitesiOnlineMarketing_1554722489item1\"]",
-					"title": "Notes"
+					"title": "Note legate de acesta \u00eentrebare"
 				},
 				{
 					"type": "radiogroup",
 					"name": "Does your web site has a SSL certificate?_1554722504",
-					"title": "INTREBARE 7 Sectiunea Web Site si Online Marketing",
+					"title": "V-a\u021bi asigurat ca formularele (de contact, de comanda, de \u00eenscriere la newsletter, etc..) de pe website-ul dvs sunt conforme GDPR \u2013 cer\u00e2nd consim\u021b\u0103m\u00e2ntul vizitatorului \u0219i nu au set\u0103ri implicit bifate?",
 					"correctAnswer": "WebSitesiOnlineMarketing_1554722504item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "WebSitesiOnlineMarketing_1554722504item1",
@@ -11269,7 +11269,7 @@
 					"type": "html",
 					"name": "Comments and download for YES - please add your suggestions here_1554722504",
 					"visibleIf": "{Does your web site has a SSL certificate?_1554722504} = \"WebSitesiOnlineMarketing_1554722504item1\"",
-					"html": "CONFORMARE INTREBARE 7 Sectiunea Web Site si Online Marketing\n"
+					"html": "Criteriul este \u00eendeplinit, sunte\u021bi \u00een conformitate cu normele RGPD.\n"
 				},
 				{
 					"type": "html",
@@ -11277,21 +11277,21 @@
 					"visible": false,
 					"visibleIf": "{Does your web site has a SSL certificate?_1554722504} = \"WebSitesiOnlineMarketing_1554722504item2\"",
 					"valueName": "Comments and download for NO - please add your suggestions here",
-					"html": "\nRECOMANDARI INTREBARE 7 Sectiunea Web Site si Online Marketing"
+					"html": "\nEste foarte important ca persoana fizic\u0103 ale c\u0103rui date de contact sunt introduse \u00een formulare s\u0103 fie informat\u0103 despre scopurile cu care sunt folosite \u0219i s\u0103 aib\u0103 posibilitatea de a-\u0219i da consim\u021b\u0103m\u00e2ntul. De asemenea este important ca formularele s\u0103 nu fie completate \u0219i s\u0103 existe link c\u0103tre politica de confiden\u021bialitate. "
 				},
 				{
 					"type": "comment",
 					"name": "Notes for - Does your web site has a SSL certificate?_1554722504",
 					"visible": false,
 					"visibleIf": "{Allow Notes for Does your web site has a SSL certificate?_1554722504} = [\"WebSitesiOnlineMarketing_1554722504item1\"]",
-					"title": "Notes"
+					"title": "Note legate de acesta \u00eentrebare"
 				},
 				{
 					"type": "radiogroup",
 					"name": "Does your web site has a SSL certificate?_1554722517",
-					"title": " INTREBARE 8 Sectiunea Web Site si Online Marketing",
+					"title": "Web site-ul dvs. are o politic\u0103 de confiden\u021bialitate?",
 					"correctAnswer": "WebSitesiOnlineMarketing_1554722517item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "WebSitesiOnlineMarketing_1554722517item1",
@@ -11326,7 +11326,7 @@
 					"type": "html",
 					"name": "Comments and download for YES - please add your suggestions here_1554722517",
 					"visibleIf": "{Does your web site has a SSL certificate?_1554722517} = \"WebSitesiOnlineMarketing_1554722517item1\"",
-					"html": "CONFORMARE INTREBARE 8 Sectiunea Web Site si Online Marketing"
+					"html": "Criteriul este \u00eendeplinit, sunte\u021bi \u00een conformitate cu normele RGPD.\u2013  Trebuie s\u0103 v\u0103 asigura\u021bi c\u0103 toate datele pe care site-ul dumneavoastr\u0103 le prelucreaz\u0103 sau le colecteaz\u0103 sunt prev\u0103zute de politica de confiden\u021bialitate precum \u0219i scopurile pentru care sunt prelucrate \u0219i m\u0103surile pe care le lua\u021bi pentru a le proteja."
 				},
 				{
 					"type": "html",
@@ -11334,21 +11334,21 @@
 					"visible": false,
 					"visibleIf": "{Does your web site has a SSL certificate?_1554722517} = \"WebSitesiOnlineMarketing_1554722517item2\"",
 					"valueName": "Comments and download for NO - please add your suggestions here",
-					"html": "RECOMANDARI INTREBARE 8 Sectiunea Web Site si Online Marketing"
+					"html": "O politic\u0103 de confiden\u021bialitate este absolut necesar\u0103 pentru orice prelucrare. \u00cen aceast\u0103 politic\u0103 trebuie s\u0103 men\u021biona\u021bi toate datele cu caracter personal pe care le colecta\u021bi prin intermediul website-ului dumneavoastr\u0103, s\u0103 men\u021biona\u021bi temeiurile legale pentru care colecta\u021bi aceste date \u0219i metodele prin care va asigura \u021bi c\u0103 aceste date sunt securizate.\n\n"
 				},
 				{
 					"type": "comment",
 					"name": "Notes for - Does your web site has a SSL certificate?_1554722517",
 					"visible": false,
 					"visibleIf": "{Allow Notes for Does your web site has a SSL certificate?_1554722517} = [\"WebSitesiOnlineMarketing_1554722517item1\"]",
-					"title": "Notes"
+					"title": "Note legate de acesta \u00eentrebare"
 				},
 				{
 					"type": "radiogroup",
 					"name": "Does your web site has a SSL certificate?_1554722548",
-					"title": " INTREBARE 9 Sectiunea Web Site si Online Marketing",
+					"title": "Este instruit \u00een mod special personalul care se ocupa de marketing direct online?",
 					"correctAnswer": "WebSitesiOnlineMarketing_1554722548item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "WebSitesiOnlineMarketing_1554722548item1",
@@ -11383,7 +11383,7 @@
 					"type": "html",
 					"name": "Comments and download for YES - please add your suggestions here_1554722548",
 					"visibleIf": "{Does your web site has a SSL certificate?_1554722548} = \"WebSitesiOnlineMarketing_1554722548item1\"",
-					"html": "CONFORMARE INTREBARE 9 Sectiunea Web Site si Online Marketing"
+					"html": "Criteriul este \u00eendeplinit, sunte\u021bi \u00een conformitate cu normele RGPD."
 				},
 				{
 					"type": "html",
@@ -11391,21 +11391,21 @@
 					"visible": false,
 					"visibleIf": "{Does your web site has a SSL certificate?_1554722548} = \"WebSitesiOnlineMarketing_1554722548item2\"",
 					"valueName": "Comments and download for NO - please add your suggestions here",
-					"html": "RECOMANDARI INTREBARE 9 Sectiunea Web Site si Online Marketing"
+					"html": "Este foarte recomandat s\u0103 oferi\u021bi un instructaj specific persoanelor care se ocup\u0103 de marketing online \u00een cadrul companiei dumneavoastr\u0103. Bazele de date trebuie s\u0103 fie operate cu maxim\u0103 aten\u021bie av\u00e2nd \u00een vedere cantitatea mare de date cu caracter personal pe care pot s\u0103 le con\u021bin\u0103 aceste baze de date. S\u0103 nu fie copiate pe suporturi neautorizate sau s\u0103 fie externalizate sau scoase \u00een afara companiei.\nLuarea la cuno\u0219tin\u021b\u0103 de c\u0103tre angaja\u021bi a acestor instruc\u021biuni face parte tot din capitolul \u201dbune practici\u201d. Se recomand\u0103 ca aceste instruc\u021biuni s\u0103 fie scrise, s\u0103 fie trimise pe e-mail sau se pot face postere specifice care s\u0103 fie lipite pe pere\u021bii departamentului.\n"
 				},
 				{
 					"type": "comment",
 					"name": "Notes for - Does your web site has a SSL certificate?_1554722548",
 					"visible": false,
 					"visibleIf": "{Allow Notes for Does your web site has a SSL certificate?_1554722548} = [\"WebSitesiOnlineMarketing_1554722548item1\"]",
-					"title": "Notes"
+					"title": "Note legate de acesta \u00eentrebare"
 				},
 				{
 					"type": "radiogroup",
 					"name": "Does your web site has a SSL certificate?_1554722560",
-					"title": " INTREBARE 10 Sectiunea Web Site si Online Marketing",
+					"title": "A\u021bi solicitat consim\u021b\u0103m\u00e2ntul persoanelor care s-au \u00eenscris la newsletter?",
 					"correctAnswer": "WebSitesiOnlineMarketing_1554722560item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "WebSitesiOnlineMarketing_1554722560item1",
@@ -11440,7 +11440,7 @@
 					"type": "html",
 					"name": "Comments and download for YES - please add your suggestions here_1554722560",
 					"visibleIf": "{Does your web site has a SSL certificate?_1554722560} = \"WebSitesiOnlineMarketing_1554722560item1\"",
-					"html": "CONFORMARE INTREBARE 10 Sectiunea Web Site si Online Marketing"
+					"html": "Criteriul este \u00eendeplinit, sunte\u021bi \u00een conformitate cu normele RGPD."
 				},
 				{
 					"type": "html",
@@ -11448,14 +11448,242 @@
 					"visible": false,
 					"visibleIf": "{Does your web site has a SSL certificate?_1554722560} = \"WebSitesiOnlineMarketing_1554722560item2\"",
 					"valueName": "Comments and download for NO - please add your suggestions here",
-					"html": "\nRECOMANDARI INTREBARE 10 Sectiunea Web Site si Online Marketing\n"
+					"html": " Este foarte important s\u0103 v\u0103 asigura\u021bi c\u0103 pute\u021bi dovedi consim\u021b\u0103m\u00e2ntul persoanelor \u00eenscrise la newsletter, ca acesta a fost unul benevol \u0219i c\u0103 nu au existat c\u0103su\u021be pre completate.\n\nPentru ca trimiterea de newsletter s\u0103 fie conform\u0103 cu GDPR, cei \u00eenscri\u0219i  \u00een baza de date trebuie s\u0103 \u00ee\u0219i dea consim\u021b\u0103m\u00e2ntul \u00eenainte s\u0103 primeasc\u0103 newsletter. Asigura\u021bi-v\u0103 c\u0103 ave\u021bi posibilitatea de a ob\u021bine consim\u021b\u0103m\u00e2ntul persoanelor \u00eenainte de a se \u00eenscrie la newsletter \u0219i c\u0103 acestea pot oric\u00e2nd s\u0103 fac\u0103 o solicitare de dezabonare sau de \u0219tergere din baza de date.\n\n"
 				},
 				{
 					"type": "comment",
 					"name": "Notes for - Does your web site has a SSL certificate?_1554722560",
 					"visible": false,
 					"visibleIf": "{Allow Notes for Does your web site has a SSL certificate?_1554722560} = [\"WebSitesiOnlineMarketing_1554722560item1\"]",
-					"title": "Notes"
+					"title": "Note legate de acesta \u00eentrebare"
+				},
+				{
+					"type": "radiogroup",
+					"name": "Does your web site has a SSL certificate?_1556881972",
+					"title": "Dispune\u021bi de metode pentru a v\u0103 asigura c\u0103 persoanele \u00eenscrise la newsletter se pot dezabona c\u00e2nd doresc?",
+					"correctAnswer": "WebSitesiOnlineMarketing_1556881972item1",
+					"isRequired": false,
+					"choices": [
+						{
+							"value": "WebSitesiOnlineMarketing_1556881972item1",
+							"text": "DA"
+						},
+						{
+							"value": "WebSitesiOnlineMarketing_1556881972item2",
+							"text": "NU"
+						},
+						{
+							"value": "WebSitesiOnlineMarketing_1556881972item3",
+							"text": "NU MI SE APLIC\u0102"
+						}
+					]
+				},
+				{
+					"type": "checkbox",
+					"name": "Allow Notes for Does your web site has a SSL certificate?_1556881972",
+					"visible": false,
+					"title": "Allow Notes - check if applies to question.",
+					"defaultValue": [
+						"WebSitesiOnlineMarketing_1556881972item1"
+					],
+					"choices": [
+						{
+							"value": "WebSitesiOnlineMarketing_1556881972item1",
+							"text": "Allow Notes"
+						}
+					]
+				},
+				{
+					"type": "html",
+					"name": "Comments and download for YES - please add your suggestions here_1556881972",
+					"visibleIf": "{Does your web site has a SSL certificate?_1556881972} = \"WebSitesiOnlineMarketing_1556881972item1\"",
+					"html": "Criteriul este \u00eendeplinit, sunte\u021bi conform cu GDPR. Trebuie s\u0103 p\u0103stra\u021bi \u00eenregistr\u0103ri pentru a dovedi consim\u021b\u0103m\u00e2ntul - cine a consim\u021bit, c\u00e2nd, cum \u0219i ce li s-a spus. \n\n"
+				},
+				{
+					"type": "html",
+					"name": "Comments and download for NO - please add your suggestions here. _1556881972",
+					"visible": false,
+					"visibleIf": "{Does your web site has a SSL certificate?_1556881972} = \"WebSitesiOnlineMarketing_1556881972item2\"",
+					"valueName": "Comments and download for NO - please add your suggestions here",
+					"html": "Persoanele care se \u00eenscriu la newsletter au dreptul de a se dezabona oric\u00e2nd doresc. Trebuie s\u0103 va asigura\u021bi c\u0103 ele au aceast\u0103 posibilitate, fie direct din e-mailul pe care \u00eel primesc fie printr-o solicitare. "
+				},
+				{
+					"type": "comment",
+					"name": "Notes for - Does your web site has a SSL certificate?_1556881972",
+					"visible": false,
+					"visibleIf": "{Allow Notes for Does your web site has a SSL certificate?_1556881972} = [\"WebSitesiOnlineMarketing_1556881972item1\"]",
+					"title": "Note legate de acesta \u00eentrebare"
+				},
+				{
+					"type": "radiogroup",
+					"name": "Does your web site has a SSL certificate?_1556882694",
+					"title": "Ave\u021bi o politic\u0103 de p\u0103strare a datelor colectate pentru trimiterea de newsletter?",
+					"correctAnswer": "WebSitesiOnlineMarketing_1556882694item1",
+					"isRequired": false,
+					"choices": [
+						{
+							"value": "WebSitesiOnlineMarketing_1556882694item1",
+							"text": "DA"
+						},
+						{
+							"value": "WebSitesiOnlineMarketing_1556882694item2",
+							"text": "NU"
+						},
+						{
+							"value": "WebSitesiOnlineMarketing_1556882694item3",
+							"text": "NU MI SE APLIC\u0102"
+						}
+					]
+				},
+				{
+					"type": "checkbox",
+					"name": "Allow Notes for Does your web site has a SSL certificate?_1556882694",
+					"visible": false,
+					"title": "Allow Notes - check if applies to question.",
+					"defaultValue": [
+						"WebSitesiOnlineMarketing_1556882694item1"
+					],
+					"choices": [
+						{
+							"value": "WebSitesiOnlineMarketing_1556882694item1",
+							"text": "Allow Notes"
+						}
+					]
+				},
+				{
+					"type": "html",
+					"name": "Comments and download for YES - please add your suggestions here_1556882694",
+					"visibleIf": "{Does your web site has a SSL certificate?_1556882694} = \"WebSitesiOnlineMarketing_1556882694item1\"",
+					"html": "Criteriul este \u00eendeplinit, sunte\u021bi conform din punct de vedere GDPR. Este important s\u0103 v\u0103 asigura\u021bi c\u0103 datele sunt corecte \u0219i actualizate. "
+				},
+				{
+					"type": "html",
+					"name": "Comments and download for NO - please add your suggestions here. _1556882694",
+					"visible": false,
+					"visibleIf": "{Does your web site has a SSL certificate?_1556882694} = \"WebSitesiOnlineMarketing_1556882694item2\"",
+					"valueName": "Comments and download for NO - please add your suggestions here",
+					"html": "Trebuie s\u0103 lua\u021bi m\u0103suri rezonabile pentru a asigura exactitatea datelor cu caracter personal colectate prin intermediul marketingului direct. Aceastea ar trebui s\u0103 permit\u0103 modificarea, eliminarea sau clarificarea datelor cu caracter personal, dup\u0103 caz.\n\nAtunci c\u00e2nd o persoan\u0103 v\u0103 informeaz\u0103 c\u0103 datele sale sunt inexacte sau v\u0103 solicit\u0103 s\u0103 \u0219terge\u021bi datele, atunci ar trebui s\u0103 ave\u021bi la dispozi\u021bie procese pentru a v\u0103 asigura c\u0103 r\u0103spunde\u021bi solicit\u0103rii \u00een termen de o lun\u0103.\n\nDatele colectate prin intermediul activit\u0103\u021bilor de marketing direct trebuie s\u0103 fie adecvate, relevante \u0219i limitate la ceea ce este necesar. Dac\u0103 nu lua\u021bi decizii cu privire la datele personale pe care ar trebui s\u0103 le de\u021bine\u021bi pentru marketingul direct, atunci v\u0103 expune\u021bi riscul de a colecta date excesive \u0219i de a \u00eenc\u0103lca confiden\u021bialitatea unei persoane sau pute\u021bi s\u0103 nu ave\u021bi prea multe pentru a facilita luarea unor decizii eficiente cu privire la ace\u0219ti indivizi. Din nou, ceea ce este adecvat, relevant \u0219i nu excesiv se va schimba cu nevoile afacerii.\n\nAr trebui s\u0103 identifica\u021bi tipurile de \u00eenregistr\u0103ri sau seturi de date pe care le de\u021bine\u021bi \u0219i le prelucra\u021bi ca urmare a activit\u0103\u021bilor de marketing direct, ce tip de informa\u021bii con\u021bin aceste \u00eenregistr\u0103ri \u0219i apoi arunca\u021bi, \u0219terge\u021bi (anula\u021bi) sau anonimiza\u021bi datele personale din \u00eenregistr\u0103rile pe care le de\u021bine\u021bi imediat ce devine excedent la cerin\u021bele dumneavoastr\u0103.\n"
+				},
+				{
+					"type": "comment",
+					"name": "Notes for - Does your web site has a SSL certificate?_1556882694",
+					"visible": false,
+					"visibleIf": "{Allow Notes for Does your web site has a SSL certificate?_1556882694} = [\"WebSitesiOnlineMarketing_1556882694item1\"]",
+					"title": "Note legate de acesta \u00eentrebare"
+				},
+				{
+					"type": "radiogroup",
+					"name": "Does your web site has a SSL certificate?_1556882727",
+					"title": "Furnizorul de servicii de e-mail este conform cu GDPR?",
+					"correctAnswer": "WebSitesiOnlineMarketing_1556882727item1",
+					"isRequired": false,
+					"choices": [
+						{
+							"value": "WebSitesiOnlineMarketing_1556882727item1",
+							"text": "DA"
+						},
+						{
+							"value": "WebSitesiOnlineMarketing_1556882727item2",
+							"text": "NU"
+						},
+						{
+							"value": "WebSitesiOnlineMarketing_1556882727item3",
+							"text": "NU MI SE APLIC\u0102"
+						}
+					]
+				},
+				{
+					"type": "checkbox",
+					"name": "Allow Notes for Does your web site has a SSL certificate?_1556882727",
+					"visible": false,
+					"title": "Allow Notes - check if applies to question.",
+					"defaultValue": [
+						"WebSitesiOnlineMarketing_1556882727item1"
+					],
+					"choices": [
+						{
+							"value": "WebSitesiOnlineMarketing_1556882727item1",
+							"text": "Allow Notes"
+						}
+					]
+				},
+				{
+					"type": "html",
+					"name": "Comments and download for YES - please add your suggestions here_1556882727",
+					"visibleIf": "{Does your web site has a SSL certificate?_1556882727} = \"WebSitesiOnlineMarketing_1556882727item1\"",
+					"html": "Criteriul a fost \u00eendeplinit, sunt conform din punct de vedere GDPR."
+				},
+				{
+					"type": "html",
+					"name": "Comments and download for NO - please add your suggestions here. _1556882727",
+					"visible": false,
+					"visibleIf": "{Does your web site has a SSL certificate?_1556882727} = \"WebSitesiOnlineMarketing_1556882727item2\"",
+					"valueName": "Comments and download for NO - please add your suggestions here",
+					"html": "Trebuie s\u0103 v\u0103 asigura\u021bi c\u0103 furnizorul de servicii de e-mail (yahoo, g-mail, mailchimp, etc.) este conform cu GDPR.  De obicei g\u0103si\u021bi aceste informa\u021bii pe site-ul lor oficial sau pute\u021bi s\u0103 le solicita\u021bi direct informa\u021bii cu privire la conformare serviciilor lor la GDPR. "
+				},
+				{
+					"type": "comment",
+					"name": "Notes for - Does your web site has a SSL certificate?_1556882727",
+					"visible": false,
+					"visibleIf": "{Allow Notes for Does your web site has a SSL certificate?_1556882727} = [\"WebSitesiOnlineMarketing_1556882727item1\"]",
+					"title": "Note legate de acesta \u00eentrebare"
+				},
+				{
+					"type": "radiogroup",
+					"name": "Does your web site has a SSL certificate?_1556882895",
+					"title": "Ave\u021bi consim\u021b\u0103m\u00e2ntul persoanelor care apar in fotografiile postate pe site?",
+					"correctAnswer": "WebSitesiOnlineMarketing_1556882895item1",
+					"isRequired": false,
+					"choices": [
+						{
+							"value": "WebSitesiOnlineMarketing_1556882895item1",
+							"text": "DA"
+						},
+						{
+							"value": "WebSitesiOnlineMarketing_1556882895item2",
+							"text": "NU"
+						},
+						{
+							"value": "WebSitesiOnlineMarketing_1556882895item3",
+							"text": "NU MI SE APLIC\u0102"
+						}
+					]
+				},
+				{
+					"type": "checkbox",
+					"name": "Allow Notes for Does your web site has a SSL certificate?_1556882895",
+					"visible": false,
+					"title": "Allow Notes - check if applies to question.",
+					"defaultValue": [
+						"WebSitesiOnlineMarketing_1556882895item1"
+					],
+					"choices": [
+						{
+							"value": "WebSitesiOnlineMarketing_1556882895item1",
+							"text": "Allow Notes"
+						}
+					]
+				},
+				{
+					"type": "html",
+					"name": "Comments and download for YES - please add your suggestions here_1556882895",
+					"visibleIf": "{Does your web site has a SSL certificate?_1556882895} = \"WebSitesiOnlineMarketing_1556882895item1\"",
+					"html": "Criteriul a fost \u00eendeplinit sunte\u021bi conform cu GDPR."
+				},
+				{
+					"type": "html",
+					"name": "Comments and download for NO - please add your suggestions here. _1556882895",
+					"visible": false,
+					"visibleIf": "{Does your web site has a SSL certificate?_1556882895} = \"WebSitesiOnlineMarketing_1556882895item2\"",
+					"valueName": "Comments and download for NO - please add your suggestions here",
+					"html": "Trebuie s\u0103 v\u0103 asigura\u021bi c\u0103 ave\u021bi consim\u021b\u0103m\u00e2ntul persoanelor care apar \u00een fotografiile postate pe site-ul d-voastr\u0103 chiar dac\u0103 este vorba de angaja\u021bi. De asemenea ace\u0219tia beneficiaz\u0103 de dreptul de \u0219tergere \u00een cazul \u00een care nu mai doresc ca fotografiile lor s\u0103 fie publice.\nDac\u0103 ave\u021bi fotografii postate din alte surse, este important ca acestea s\u0103 beneficieze de drepturi de autor \u0219i s\u0103 fie achizi\u021bionate din surse de \u00eencredere.\n"
+				},
+				{
+					"type": "comment",
+					"name": "Notes for - Does your web site has a SSL certificate?_1556882895",
+					"visible": false,
+					"visibleIf": "{Allow Notes for Does your web site has a SSL certificate?_1556882895} = [\"WebSitesiOnlineMarketing_1556882895item1\"]",
+					"title": "Note legate de acesta \u00eentrebare"
 				}
 			],
 			"title": "Sectiunea Web Site si Online Marketing "
@@ -11468,7 +11696,7 @@
 					"name": "Does your web site has a SSL certificate?_1554303957",
 					"title": "De\u021bine\u021bi certificare ISO 27001?",
 					"correctAnswer": "Incidentedesecuritate_1554303957item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Incidentedesecuritate_1554303957item1",
@@ -11525,7 +11753,7 @@
 					"name": "Does your web site has a SSL certificate?_1554303990",
 					"title": "Dac\u0103 v-a\u021bi confruntat cu incidente de securitate, le-a\u021bi remediat \u0219i a\u021bi luat m\u0103surile necesare trat\u0103rii acestora potrivit RGPD?",
 					"correctAnswer": "Incidentedesecuritate_1554303990item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Incidentedesecuritate_1554303990item1",
@@ -11582,7 +11810,7 @@
 					"name": "Does your web site has a SSL certificate?_1554304000",
 					"title": "A\u021bi \u00eentocmit o procedur\u0103 scris\u0103 de reac\u021bie la incidentele de securitate?",
 					"correctAnswer": "Incidentedesecuritate_1554304000item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Incidentedesecuritate_1554304000item1",
@@ -11639,7 +11867,7 @@
 					"name": "Does your web site has a SSL certificate?_1554304046",
 					"title": "De\u021bine\u021bi un Registru al incidentelor de securitate, care cuprinde o descriere a situa\u021biei de fapt \u00een care a avut loc \u00eenc\u0103lcarea securit\u0103\u021bii datelor cu caracter personal, a efectelor acesteia \u0219i a m\u0103surilor de remediere \u00eentreprinse?",
 					"correctAnswer": "Incidentedesecuritate_1554304046item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Incidentedesecuritate_1554304046item1",
@@ -11696,7 +11924,7 @@
 					"name": "Does your web site has a SSL certificate?_1554304057",
 					"title": "A\u021bi \u00eentocmit o procedur\u0103 scris\u0103 de notificare a autorit\u0103\u0163ilor de supraveghere competente \u00een termen de 72 de ore \u00een caz de \u00eenc\u0103lcare a securit\u0103\u0163ii datelor?",
 					"correctAnswer": "Incidentedesecuritate_1554304057item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Incidentedesecuritate_1554304057item1",
@@ -11753,7 +11981,7 @@
 					"name": "Does your web site has a SSL certificate?_1554304382",
 					"title": "Exist\u0103 vreo procedur\u0103 scris\u0103 de informare a persoanelor vizate \u00een caz de \u00eenc\u0103lcare a securit\u0103\u021bii?",
 					"correctAnswer": "Incidentedesecuritate_1554304382item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Incidentedesecuritate_1554304382item1",
@@ -11815,7 +12043,7 @@
 					"name": "Does your web site has a SSL certificate?_1554381754",
 					"title": "V\u0103 afla\u021bi \u00een una din urm\u0103toarele situa\u021bii: sunte\u021bi o institu\u021bie public\u0103, companie privat\u0103 cu peste 250 angaja\u021bi sau prelucr\u0103rile pe care le realiza\u0163i sunt susceptibile s\u0103 genereze un risc pentru drepturile \u015fi libert\u0103\u0163ile persoanelor vizate, prelucrarea nu este ocazional\u0103 sau prelucrarea include categorii speciale de date, astfel cum se prevede la art. 9 alin. (1), sau date cu caracter personal referitoare la condamn\u0103ri penale \u015fi infrac\u0163iuni. \u00cen acest caz, p\u0103stra\u0163i o eviden\u0163\u0103 a activit\u0103\u0163ilor de prelucrare?",
 					"correctAnswer": "Cartografiere_1554381754item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Cartografiere_1554381754item1",
@@ -11872,7 +12100,7 @@
 					"name": "Does your web site has a SSL certificate?_1554381774",
 					"title": "La nivelul departamentului \u201eSecretariat\u201d exist\u0103 vreo procedur\u0103 scris\u0103\/metodologie a fluxului de documente (din punctul de vedere al intr\u0103rilor\/ie\u015firilor acestora)?",
 					"correctAnswer": "Cartografiere_1554381774item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Cartografiere_1554381774item1",
@@ -11929,7 +12157,7 @@
 					"name": "Does your web site has a SSL certificate?_1554381784",
 					"title": "La nivelul departamentului \u201eArhiv\u0103\u201d (sau departament care \u00eendepline\u015fte func\u0163ii similare) din cadrul societ\u0103\u0163ii\/institu\u0163iei exist\u0103 vreo procedur\u0103 scris\u0103\/metodologie a fluxului de documente (din punctul de vedere al intr\u0103rilor\/ie\u015firilor acestora)?",
 					"correctAnswer": "Cartografiere_1554381784item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Cartografiere_1554381784item1",
@@ -11986,7 +12214,7 @@
 					"name": "Does your web site has a SSL certificate?_1554381799",
 					"title": "Ave\u0163i o procedur\u0103 de actualizare periodic\u0103 a datelor cu caracter personal colectate \u015fi prelucrate de dumneavoastr\u0103?",
 					"correctAnswer": "Cartografiere_1554381799item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Cartografiere_1554381799item1",
@@ -12043,7 +12271,7 @@
 					"name": "Does your web site has a SSL certificate?_1554381809",
 					"title": "Ave\u0163i o procedur\u0103 de stabilire a termenului de p\u0103strare a datelor \u00eentr-o form\u0103 care permite identificarea persoanelor vizate doar pe perioada necesar\u0103 \u00eendeplinirii scopurilor \u00een care sunt prelucrate datele? ",
 					"correctAnswer": "Cartografiere_1554381809item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Cartografiere_1554381809item1",
@@ -12100,7 +12328,7 @@
 					"name": "Does your web site has a SSL certificate?_1554381819",
 					"title": "Realiza\u0163i o prelucrare ulterioar\u0103 \u00een scopuri de arhivare \u00een interes public, \u00een scopuri de cercetare \u015ftiin\u0163ific\u0103 sau istoric\u0103 ori \u00een scopuri statistice \u015fi a\u0163i informat persoanele vizate?",
 					"correctAnswer": "Cartografiere_1554381819item1",
-					"isRequired": true,
+					"isRequired": false,
 					"choices": [
 						{
 							"value": "Cartografiere_1554381819item1",

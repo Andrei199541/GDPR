@@ -7,12 +7,12 @@
                 <div class="card auth-card">
                     <div class="position-relative image-side ">
 
-                        <p class=" text-white h2">MAGIC IS IN THE DETAILS</p>
+                        <p class="h2">MAGIC IS IN THE DETAILS</p>
 
-                        <p class="white mb-0">
+                        <p class="mb-0">
                             Please use your credentials to login.
                             <br>If you are not a member, please
-                            <a href="<?php echo site_url('register');?>" class="white">register</a>.
+                            <a href="<?php echo site_url('register');?>">register</a>.
                         </p>
                     </div>
                     <div class="form-side">

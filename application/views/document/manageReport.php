@@ -26,7 +26,18 @@ if (isset($apply) && count($apply)) {
 ?>
 <html>
     <head>
-        <title>Management Report<title>
+        <title>Management Report</title>
+        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+        <meta charset="utf-8">
+        <style>
+        label {
+            font-weight: bold;
+            color: rgb(109, 112, 114);
+        }
+        span {
+            color: rgb(109, 112, 114);
+        }
+        </style>
     </head>
     <body>
         <p style="text-align: center;">Welcome Message</p>
@@ -56,22 +67,26 @@ if (isset($apply) && count($apply)) {
             }
             ?>
         </table>
-            <?php
-            $text = '';
-            if (isset($todoList) && count($todoList)) {
-                foreach ($todoList as $pageName => $todos) {
-                    if (count($todos)) {
-                        $text .= '<h4>' . $pageName . '</h4>';
-                    }
-                    foreach ($todos as $todo) {
-                        $text .= '<div>';
-                        $text .= '<label>' . $todo["title"] . '</label><br>';
-                        $text .= '<span>' . $todo["val"] . '</span>';
-                        $text .= '</div><br>';
-                    }
+        <?php
+        $text = '';
+        if (isset($todoList) && count($todoList)) {
+            foreach ($todoList as $pageName => $todos) {
+                if (count($todos)) {
+                    $text .= '<h4>' . $pageName . '</h4>';
+                }
+                foreach ($todos as $todo) {
+                    $text .= '<div>';
+                    $text .= '<label>' . $todo["title"] . '</label><br>';
+                    $text .= '<span>' . $todo["val"] . '</span>';
+                    $text .= '</div><br>';
                 }
             }
-            echo $text;
-            ?>
+        }
+        echo $text;
+        ?>
+        <script>
+        window.print();
+        window.close();
+        </script>
     </body>
 </html>

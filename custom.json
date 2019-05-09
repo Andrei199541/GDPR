@@ -4,7 +4,7 @@
         "name": "Does your web site has a SSL certificate?",
         "title": "Custom question text here... ?",
         "correctAnswer": "item1",
-        "isRequired": true,
+        "isRequired": false,
         "choices": [
             {
                 "value": "item1",

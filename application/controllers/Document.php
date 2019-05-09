@@ -94,13 +94,13 @@ class Document extends CI_Controller {
 		$this->load->model("question_management_model");
 		$values = $this->question_management_model->getSurveyResult();
 
-		$body = $this->load->view('document/manageReport', $values, TRUE);
-        $html2pdf = new Html2Pdf('P', 'B4', 'en', true, 'UTF-8');
-        $html2pdf->pdf->SetDisplayMode('fullpage');
-		$html2pdf->writeHTML($body);
-		if (ob_get_contents()) ob_end_clean();
+		$this->load->view('document/manageReport', $values);
+        // $html2pdf = new Html2Pdf('P', 'B4', 'en', true, 'UTF-8');
+        // $html2pdf->pdf->SetDisplayMode('fullpage');
+		// $html2pdf->writeHTML($body);
+		// if (ob_get_contents()) ob_end_clean();
 
-        $html2pdf->output("Management Report.pdf", "D");
+        // $html2pdf->output("Management Report.pdf", "D");
 	}
 
 	public function authReport() {
@@ -139,14 +139,6 @@ class Document extends CI_Controller {
 		$auth = $this->question_management_model->getAuthoritys();
 		$data = array();
 		$data["authoritys"] = $auth;
-		$body = $this->load->view('document/authority', $data, TRUE);
-        
-		$html2pdf = new Html2Pdf('P', 'B4', 'en', true, 'UTF-8');
-		// $html2pdf->setDefaultFont('arialunicid0');
-        $html2pdf->pdf->SetDisplayMode('fullpage');
-		$html2pdf->writeHTML($body);
-		if (ob_get_contents()) ob_end_clean();
-
-        $html2pdf->output("Authority Report.pdf", "D");
+		$this->load->view('document/authority', $data);
 	}
 }
