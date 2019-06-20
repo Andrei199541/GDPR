@@ -24,8 +24,9 @@ class User extends CI_Controller {
 		$name = $this->input->get("name");
 		$email = $this->input->get("email");
 		$pwd = $this->input->get("password");
-		$result = $this->user_model->register($name, $email, $pwd);
-		exit( json_encode($result));
+		$company = $this->input->get("company");
+		$result = $this->user_model->register($name, $email, $pwd, $company);
+		exit( ($result));
 	}
 
 	public function forgot() {

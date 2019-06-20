@@ -29,8 +29,8 @@ if (isset($apply) && count($apply)) {
         <div class="row">
             <div class="col-lg-12 col-12 text-center welcomeMessage">
                 <button class="btn close" id="welcomeMessage">&times;</button>
-                <p class="h5">Welcome Message</p>
-                <p class="h6">Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. </p>                    
+                <p class="h5">Bine ai venit</p>
+                <p class="h6">Aici gasesti progresul tau in conformarea GDPR. Poti oricand sa actualizaezi datele prin <a href="<?php echo site_url("questions/survey");?>">completarea chestionarului</a> </p>                    
             </div>
         </div>
         <div class="row">
@@ -40,7 +40,7 @@ if (isset($apply) && count($apply)) {
                         <div>
                             <i class="simple-icon-trophy mr-2 text-white align-text-bottom d-inline-block"></i>
                             <div>
-                                <p class="lead text-white">Overall Progress</p>
+                                <p class="lead text-white">Progres General</p>
                                 <p class="text-small text-white"></p>
                             </div>
                         </div>
@@ -60,8 +60,8 @@ if (isset($apply) && count($apply)) {
                         <div>
                             <i class="iconsmind-Alarm mr-2 text-white align-text-bottom d-inline-block"></i>
                             <div>
-                                <p class="lead text-white">GDPR Compliance</p>
-                                <p class="text-small text-white">Last Updated <?php echo date("d.m.Y", strtotime($last));?></p>
+                                <p class="lead text-white">Conformare GDPR</p>
+                                <p class="text-small text-white">Ultima Acualizare <?php echo date("d.m.Y", strtotime($last));?></p>
                             </div>
                         </div>
                         <div>
@@ -79,7 +79,7 @@ if (isset($apply) && count($apply)) {
                         <div>
                             <i class="iconsmind-Police-Station mr-2 text-white align-text-bottom d-inline-block"></i>
                             <div>
-                                <p class="lead text-white">Page Progress</p>
+                                <p class="lead text-white">Progress pe Capitole</p>
                                 <p class="text-small text-white"></p>
                             </div>
                         </div>
@@ -100,26 +100,26 @@ if (isset($apply) && count($apply)) {
                             <a href="#" class="card">
                                 <div class="card-body text-center">
                                     <i class="iconsmind-Alarm"></i>
-                                    <p class="card-text mb-0">You do not comply on</p>
+                                    <p class="card-text mb-0">Nu ești conform</p>
                                     <p class="lead text-center"><?php echo $doNotApplyCount;?></p>
-                                    <p class="card-text mb-0">Questions</p>
+                                    <p class="card-text mb-0">Intrebari</p>
                                 </div>
                             </a>
                             <a href="#" class="card">
                                 <div class="card-body text-center">
                                     <i class="iconsmind-Basket-Coins"></i>
-                                    <p class="card-text mb-0">You do not apply on</p>
+                                    <p class="card-text mb-0">Nu ti se aplica </p>
                                     <p class="lead text-center"><?php echo $noCount;?></p>
-                                    <p class="card-text mb-0">Questions</p>
+                                    <p class="card-text mb-0">Intrebari</p>
                                 </div>
                             </a>
 
                             <a href="#" class="card">
                                 <div class="card-body text-center">
                                     <i class="iconsmind-Arrow-Refresh"></i>
-                                    <p class="card-text mb-0">You comply on</p>
+                                    <p class="card-text mb-0">Ești conform</p>
                                     <p class="lead text-center"><?php echo $yesCount;?></p>
-                                    <p class="card-text mb-0">Questions</p>
+                                    <p class="card-text mb-0">Intrebari</p>
                                 </div>
                             </a>
                         </div>
@@ -148,7 +148,7 @@ if (isset($apply) && count($apply)) {
                         </button>
                     </div>
                     <div class="card-body">
-                        <h5 class="card-title">Progress By Page</h5>
+                        <h5 class="card-title">Progres pe Capitole </h5>
                         <?php
                         if (isset($questionsByPage) && sizeof($questionsByPage)) {
                             foreach ($questionsByPage as $pageName => $questionCount) {
@@ -178,7 +178,7 @@ if (isset($apply) && count($apply)) {
         <div class="row">
             <div class="col-12">
                 <div class="separator mb-3"></div>
-                <div class="h5">Todo List</div>
+                <div class="h5">Ce mai este de facut?</div>
                 <div class="list disable-text-selection" data-check-all="checkAll">
                     <?php
                     if (isset($todoList) && count($todoList)) {
@@ -196,7 +196,7 @@ if (isset($apply) && count($apply)) {
                                 <p class="mb-1 text-muted text-small w-15 w-xs-100"><?php echo $pageName; ?></p>
                                 <p class="mb-1 text-muted text-small w-15 w-xs-100"><?php echo substr(strip_tags($todo["val"]), 0, 99) ;?></p>
                                 <div class="w-15 w-xs-100">
-                                    <a href="<?php echo site_url("questions/survey?page=" . $pageName);?>"><span class="badge badge-pill badge-secondary">Solve</span></a>
+                                    <a href="<?php echo site_url("questions/survey?page=" . $pageName);?>"><span class="badge badge-pill badge-secondary">Verifica</span></a>
                                 </div>
                             </div>
                         </div>
@@ -212,7 +212,7 @@ if (isset($apply) && count($apply)) {
         <div class="row">
             <div class="col-12">
                 <div class="separator mb-3"></div>
-                <div class="h5">Double Check</div>
+                <div class="h5">Aspecte de re-evauat</div>
                 <?php
                 if (isset($double) && count($double)) {
                     foreach ($double as $pagename => $list) {
@@ -228,7 +228,7 @@ if (isset($apply) && count($apply)) {
                             </a>
                             <p class="mb-1 text-muted text-small w-15 w-xs-100"><?php echo $pagename; ?></p>
                             <div class="w-15 w-xs-100">
-                                <a href="<?php echo site_url("questions/survey?page=" . $pagename);?>"><span class="badge badge-pill badge-secondary">Check</span></a>
+                                <a href="<?php echo site_url("questions/survey?page=" . $pagename);?>"><span class="badge badge-pill badge-secondary">Verifica</span></a>
                             </div>
                         </div>
                     </div>

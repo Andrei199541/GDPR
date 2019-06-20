@@ -112,12 +112,21 @@ class User_model extends Base_model {
         return "OK";
     }
 
-    public function register($name, $email, $password) {
+    public function register($name, $email, $password, $company = null) {
         $exist = $this->db->get_where($this->table, array("email" => $email))->row();
         if ($exist) {
             return "exist";
         } else {
-            $this->db->insert($this->table, array("email" => $email, "name" => $name, "password" => $this->encrypt($password), "login_count" => "1", "reg_date" => date("Y-m-d H:i:s")));
+            $this->db->insert($this->table, array(
+                "email" => $email, 
+                "name" => $name, 
+                "password" => $this->encrypt($password), 
+                "login_count" => "1", 
+                "reg_date" => date("Y-m-d H:i:s"),
+                "role" => 2,
+                "company" => $company,
+                "expiration" => date("Y-m-d", strtotime("+1 year"))
+            ));
             $this->setSession($email, 2);
             return "OK";
         }

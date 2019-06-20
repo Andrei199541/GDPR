@@ -92,6 +92,7 @@ class Question_management_model extends Base_model {
                 //new custome json
                 $customJsonFile = './custom.json';
                 file_put_contents($customJsonFile, json_encode($jsonRow->elements));
+                
                 return "OK";
             }
         }
@@ -377,6 +378,15 @@ class Question_management_model extends Base_model {
             }
         }
         return 0;
+    }
+
+    public function changeQuestions($data) {
+        $row = $this->db->get($this->table)->row();
+        if ($row) {
+            $this->db->update($this->table, array("questions" => $data));
+        } else {
+            $this->db->insert($this->table, array("questions" => $data));
+        }
     }
     
     private function checkSettingTable() {

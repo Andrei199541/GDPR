@@ -43,6 +43,7 @@ if (mainMenu == "home") {
             var name = $('#name').val();
             var email = $('#email').val();
             var password = $('#password').val();
+            var company = $('#company_name').val();
         
             if (!name && !email && !password) {
                 toastr['warning'](' Please fill the required fields');
@@ -51,7 +52,7 @@ if (mainMenu == "home") {
             $.ajax({
                 type: 'GET',
                 url: site_url + "/user/register",
-                data: {name: name, email: email, password: password},
+                data: {name: name, email: email, password: password, company: company},
                 success: function (response) {
                     if (response == "OK") {
                         location.href = "main";
@@ -158,6 +159,11 @@ if (mainMenu == "user_menu") {
         var userkey = "";
         var flag = 1;
         $('.addNewCustomer').click(function() {
+            var d = new Date();
+            var year = d.getFullYear();
+            var month = d.getMonth();
+            var day = d.getDate();
+            var date = (year * 1 + 1) + '-' + (month * 1 + 1) + '-' + day;
             flag = 1;
             userkey = "";
             $('.col').each(function() {
@@ -165,6 +171,7 @@ if (mainMenu == "user_menu") {
                     $(this).val("");
                 });
             });
+            $("#expiration").val(date);
             $("#email").prop("disabled", false);
             $('.modal-title').text("Add a New User");
             $("#editRow").modal("show");
@@ -326,7 +333,7 @@ if (subMenu == "result") {
     setTimeout(setPercent, 2000);
 }
 
-if (mainMenu == "document_menu") {
+if (mainMenu == "question_menu") {
     if (subMenu == "uploads") {        
         //file upload management
         var t = 0;

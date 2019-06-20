@@ -2,7 +2,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-12">
-                <div class="h5">Todo List</div>
+                <div class="h5">Ce mai este de facut?</div>
                 <div class="list disable-text-selection" data-check-all="checkAll">
                     <?php
                     if (isset($todoList) && count($todoList)) {

@@ -17,10 +17,7 @@ function doOnCurrentPageChanged(survey) {
         .display = survey.isLastPage
             ? "inline"
             : "none";
-    document
-        .getElementById('surveyProgress')
-        .innerText = "Page " + (
-    survey.currentPageNo + 1) + " of " + survey.visiblePageCount + ".";
+    document.getElementById('surveyProgress').innerText = ( survey.currentPageNo + 1) + " of " + survey.visiblePageCount + ".";
     if (document.getElementById('surveyPageNo')) 
         document
             .getElementById('surveyPageNo')
@@ -100,9 +97,11 @@ function saveSurvey() {
 
 $(document).ready(function() {
     var nextElm = $("input[class='sv_next_btn']");
+    $(nextElm).prop("value", "Urmatorul");
     var style = '';
     if(nextElm.css('display') == 'none'){
         style = 'display: none;';
     }
-    $("input[class='sv_next_btn']").parent().append('<input type="button" style="float: right; margin-right: 10px;' + style + '" value="Save" onClick="saveSurvey()">');
+    $("input[class='sv_prev_btn']").prop("value", "Precedentul");
+    $("input[class='sv_next_btn']").parent().append('<input type="button" style="float: right; margin-right: 10px;' + style + '" value="Salveaza" onClick="saveSurvey()">');
 });

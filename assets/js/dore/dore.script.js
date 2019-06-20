@@ -1794,7 +1794,7 @@ $.dore = function(element, options) {
                 data: [comply, doNotcomply, doNotApply]
               }
             ],
-            labels: ["Comply", "Do not Comply", "Do not Apply"]
+            labels: ["Conformare", "Neconformare", "Nu se aplica"]
           }
         });
       }

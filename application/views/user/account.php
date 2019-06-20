@@ -28,7 +28,7 @@
             <div class="col-lg-9 col-xs-12 mb-4">
                 <div class="row mt-2">
                     <div class="col-xs-5">
-                        <label for="name"><h4>Your name</h4></label>
+                        <label for="name"><h4>Nume</h4></label>
                         <input type="text" class="form-control" name="name" id="name" placeholder="Your name" title="Enter your name." value="<?php echo $info->name;?>">
                     </div>
                     <div class="col-xs-5">
@@ -38,35 +38,8 @@
                 </div>
                 <div class="row mt-2">
                     <div class="col-xs-5">
-                        <label for="gender"><h4>Gender</h4></label>
-                        <select class="form-control" id="gender">
-                            <option value="0" <?php echo $info->gender == 0 ? "selected" : "";?>>Male</option>
-                            <option value="1" <?php echo $info->gender == 1 ? "selected" : "";?>>Female</option>
-                        </select>
-                    </div>
-                    <div class="col-xs-5">
-                        <label for="mobile"><h4>Birthday</h4></label>
-                        <input type="date" class="form-control" name="birthday" id="birthday" placeholder="Enter your birthday" title="Enter your birthday." value="<?php echo $info->birthday;?>">
-                    </div>
-                </div>
-                <div class="row mt-2">
-                    <div class="col-xs-5">
-                        <label for="address"><h4>Company Name</h4></label>
+                        <label for="address"><h4>Nume Companie</h4></label>
                         <input type="text" class="form-control" name="company" id="company" placeholder="Enter your Company Name" title="Enter your company name" value="<?php echo $info->company;?>">
-                    </div>
-                    <div class="col-xs-5">
-                        <label for="mobile"><h4>Contact Number</h4></label>
-                        <input type="text" class="form-control" name="job" id="job" placeholder="Enter your job" title="Enter your job." value="<?php echo $info->job;?>">
-                    </div>
-                </div>
-                <div class="row mt-2">
-                    <div class="col-xs-5">
-                        <label for="address"><h4>Address</h4></label>
-                        <input type="text" class="form-control" name="address" id="address" placeholder="Enter your address" title="Enter your address" value="<?php echo $info->address;?>">
-                    </div>
-                    <div class="col-xs-5">
-                        <label for="mobile"><h4>Contact Number</h4></label>
-                        <input type="text" class="form-control" name="contact" id="contact" placeholder="Enter your contact number" title="Enter your contact number." value="<?php echo $info->contact;?>">
                     </div>
                 </div>
                 <div class="row mt-2">

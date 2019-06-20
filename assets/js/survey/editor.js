@@ -115,12 +115,15 @@ function selectFile() {
   });
 }
 
-$(document).on('mousedown','textarea',function() {
-  obj = $(this);
-  var element = $(this).prev("grammarly-ghost");
-  $("#select_file").remove();
-  element.append("<input type='button' id='select_file' onclick='selectFile()' class='btn btn-primary' style='position: absolute; top: -10px; right: 15px; z-index: 100' value='Choose File'>");  
-});
+setTimeout(function() {
+  $(document).on('mousedown','textarea',function() {
+    obj = $(this);
+    // var element = $(this).prev("grammarly-extension");
+    var element = $(this).parent();
+    $("#select_file").remove();
+    element.append("<input type='button' id='select_file' onclick='selectFile()' class='btn btn-primary' style='position: absolute; top: -10px; right: 15px; z-index: 100' value='Choose File'>");      
+  });
+}, 7000);
 
 var custom_toolbar ='<div tabindex="0" draggable="true" class="svd_toolbox_item svd-light-border-color">\
   <span class="svd_toolbox_item_text hidden-sm hidden-xs" data-bind="text:title" id="custom_custion">Custom Question</span></div>';

@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-12">
                 <div class="separator mb-3"></div>
-                <div class="h5">Double Check</div>
+                <div class="h5">Aspecte de re-evauat</div>
                 <?php
                 if (isset($double) && count($double)) {
                     foreach ($double as $pagename => $list) {

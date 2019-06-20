@@ -28,24 +28,24 @@ if (isset($apply) && count($apply)) {
     <div class="container-fluid">
         <div class="row">
             <div class="col-xs-12">
-                <button class="btn btn-primary default float-right export">Export</button>
+                <button class="btn btn-primary default float-right export">Printeaza sau Exporta in PDF</button>
             </div>
         </div>
         <div class="row">
             <div class="col-lg-12 col-12 text-center welcomeMessage">
-                <p class="h5">Welcome Message</p>
-                <p class="h6">Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. </p>                    
+                <p class="h5 text-center">Raport Management</p>
+                <p class="h6">Acest raport arata progresul conformarii GDPR pe fiecare capitol in parte si aspectele care mai trebuiesc rezolvate.</p>
             </div>
         </div>
         <div class="row mt-4">
             <div class="col-xs-4 text-center">
-                <p class="h6 font-weight-bold">Overall Progress: <?php echo $yesCount . " / " . $totalQuestion;?></p>
+                <p class="h6 font-weight-bold">Progress General: <?php echo $yesCount . " / " . $totalQuestion;?></p>
             </div>
             <div class="col-xs-4 text-center">
-                <p class="h6 font-weight-bold">GDPR Compliance: <?php echo $yesCount . " / " . ($totalQuestion - $doNotApplyCount);?></p>
+                <p class="h6 font-weight-bold">Conformare GDPR: <?php echo $yesCount . " / " . ($totalQuestion - $doNotApplyCount);?></p>
             </div>
             <div class="col-xs-4 text-center">
-                <p class="h6 font-weight-bold">Page Progress: <?php echo $totalPage["reply"] . " / " . $totalPage["count"]; ?></p>
+                <p class="h6 font-weight-bold">Progress pe Capitole : <?php echo $totalPage["reply"] . " / " . $totalPage["count"]; ?></p>
             </div>
         </div>
         <div class="row">
@@ -57,7 +57,7 @@ if (isset($apply) && count($apply)) {
                     </button>
                 </div>
                 <div class="card-body">
-                    <h5 class="card-title">Progress By Page</h5>
+                    <h5 class="card-title">Progress pe Capitole</h5>
                     <?php
                         if (isset($questionsByPage) && sizeof($questionsByPage)) {
                             foreach ($questionsByPage as $pageName => $questionCount) {
@@ -87,7 +87,7 @@ if (isset($apply) && count($apply)) {
     <div class="row">
         <div class="col-12">
             <div class="separator mb-3"></div>
-            <div class="h5">Todo List</div>
+            <div class="h5">Ce mai este de facut?</div>
             <div class="list disable-text-selection" data-check-all="checkAll">
                 <?php
                 if (isset($todoList) && count($todoList)) {
@@ -105,7 +105,7 @@ if (isset($apply) && count($apply)) {
                             <p class="mb-1 text-muted text-small w-15 w-xs-100"><?php echo $pageName; ?></p>
                             <p class="mb-1 text-muted text-small w-15 w-xs-100"><?php echo substr(strip_tags($todo["val"]), 0, 99) ;?></p>
                             <div class="w-15 w-xs-100">
-                                <a href="<?php echo site_url("questions/survey?page=" . $pageName );?>"><span class="badge badge-pill badge-secondary">Solve</span></a>
+                                <a href="<?php echo site_url("questions/survey?page=" . $pageName );?>"><span class="badge badge-pill badge-secondary">Rezolva</span></a>
                             </div>
                         </div>
                     </div>

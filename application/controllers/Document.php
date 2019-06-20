@@ -93,6 +93,8 @@ class Document extends CI_Controller {
 	public function managementExport() {
 		$this->load->model("question_management_model");
 		$values = $this->question_management_model->getSurveyResult();
+		$info = $this->user_model->getUserInfo();
+		$values["user"] = $info;
 
 		$this->load->view('document/manageReport', $values);
         // $html2pdf = new Html2Pdf('P', 'B4', 'en', true, 'UTF-8');
@@ -137,8 +139,10 @@ class Document extends CI_Controller {
 	public function authorityExport() {
 		$this->load->model("question_management_model");
 		$auth = $this->question_management_model->getAuthoritys();
+		$info = $this->user_model->getUserInfo();
 		$data = array();
 		$data["authoritys"] = $auth;
+		$data["info"] = $info;
 		$this->load->view('document/authority', $data);
 	}
 }

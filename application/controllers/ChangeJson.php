@@ -54,7 +54,8 @@ class ChangeJson extends CI_Controller {
 			}
 			$saveAry = json_encode($saveAry['Json']);
 		}
-		
+		$this->load->model("question_management_model");
+		$this->question_management_model->changeQuestions($saveAry);
 		file_put_contents($jsonFile, $saveAry);
 
 		exit ( file_get_contents($jsonFile) );

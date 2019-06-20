@@ -1,4 +1,4 @@
-External navigation:
+Parcurgeti caplitolele. Capitolul: 
 <span id="surveyProgress"></span>
 <a id="surveyPrev" href="#" onclick="survey.prevPage();">Prev</a>
 <a id="surveyNext" href="#" onclick="survey.nextPage();">Next</a>
